@@ -23,9 +23,9 @@ Journey Agent stelt Journey Optimizer-gebruikers in staat om reizen te analysere
 >De Journey Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de Journey Agent-functies volledig te kunnen gebruiken.
 >
 >**Reizen van de Mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in de reis in AI Medewerker direct te bekijken.
->>**Reizen beheren**: met de machtiging kunt u de Journey Agent gebruiken om nieuwe reizen rechtstreeks in AI Assistant te maken.
->>**Segmenten van de mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in het publiek in AI Medewerker direct te bekijken.
->>**Segmenten beheren**: met de machtiging kunt u de Journey Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
+>&#x200B;>**Reizen beheren**: met de machtiging kunt u de Journey Agent gebruiken om nieuwe reizen rechtstreeks in AI Assistant te maken.
+>&#x200B;>**Segmenten van de mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in het publiek in AI Medewerker direct te bekijken.
+>&#x200B;>**Segmenten beheren**: met de machtiging kunt u de Journey Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
 
 ![ Steekproef voor de Agent van AJO ](./images/ajo-agent/ajo-agent-sample.png)
 
