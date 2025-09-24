@@ -4,9 +4,9 @@ description: Uitgebreide handleiding voor de Journey Agent Analyze-vaardigheden,
 solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
-source-git-commit: 56dbe826fc73cbf699f08b12014b2b73d2bab71b
+source-git-commit: cf29a28477881b400b32b4623ccff2e626010e10
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '986'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Journey Agent stelt Journey Optimizer-gebruikers in staat om reizen te analysere
 >De Journey Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de Journey Agent-functies volledig te kunnen gebruiken.
 >
 >**Reizen van de Mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in de reis in AI Medewerker direct te bekijken.
->&#x200B;>**Reizen beheren**: met de machtiging kunt u de Journey Agent gebruiken om nieuwe reizen rechtstreeks in AI Assistant te maken.
->&#x200B;>**Segmenten van de mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in het publiek in AI Medewerker direct te bekijken.
->&#x200B;>**Segmenten beheren**: met de machtiging kunt u de Journey Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
+>>**Reizen beheren**: met de machtiging kunt u de Journey Agent gebruiken om nieuwe reizen rechtstreeks in AI Assistant te maken.
+>>**Segmenten van de mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in het publiek in AI Medewerker direct te bekijken.
+>>**Segmenten beheren**: met de machtiging kunt u de Journey Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
 
 ![ Steekproef voor de Agent van AJO ](./images/ajo-agent/ajo-agent-sample.png)
 
@@ -105,7 +105,10 @@ Hier zijn voorbeelden van waardevolle herinneringen gebruikers kunnen hefboomwer
 
 ### Falloutanalyse
 
-
+- &quot;Ik wil de fallout per knoop voor reis 4de van de Campagne van Juli analyseren.&quot;
+- &quot;Voer een valutanalyse uit voor reis vierde van de Campagne van juli.&quot;
+- &quot;Wat is profielverlies tijdens de reis op de vierde van de Campagne van juli?&quot;
+- &quot;Toon waar de gebruikers in reis Vierde van de Campagne van Juli wegvallen.&quot;
 
 ### Vragen om conflictoanalyse
 
