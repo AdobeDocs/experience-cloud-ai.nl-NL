@@ -23,7 +23,7 @@ Journey Agent stelt Journey Optimizer-gebruikers in staat om reizen te analysere
 >De Audience Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de Audience Agent-functies volledig te kunnen gebruiken.
 >
 >**Segmenten van de Mening**: Deze toestemming laat u Audience Agent gebruiken om inzichten in het publiek direct in AI Medewerker te bekijken.
->>**Segmenten beheren**: met de machtiging kunt u de Audience Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
+>&#x200B;>**Segmenten beheren**: met de machtiging kunt u de Audience Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
 
 
 ![ Steekproef voor de Agent van AJO ](./images/ajo-agent/ajo-agent-sample.png)
