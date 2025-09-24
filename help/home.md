@@ -1,0 +1,111 @@
+---
+title: AI in Experience Cloud-toepassingen
+description: Leer hoe Experience Cloud-toepassingen gebruikmaken van generatieve AI (GenAI), AI Assistant en AGentic AI.
+source-git-commit: 860b0f2414dc006c23fedcd7b0e29727fc0641d4
+workflow-type: tm+mt
+source-wordcount: '651'
+ht-degree: 0%
+
+---
+
+# AI in Experience Cloud
+
+Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience Cloud-toepassingen. In deze documentatie wordt beschreven hoe generatieve AI-, AI Assistant- en Adobe-agents worden geïntegreerd in uw Experience Cloud-workflows om de productiviteit te versnellen en de besluitvorming te verbeteren.
+
+## Wat is inbegrepen in deze gids
+
+### AI-assistent
+
+[ AI Medewerker ](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
+
+**Zeer belangrijke eigenschappen:**
+
+- **Conversational Interface**: Het volledig-scherm en spoormeningsopties voor verschillende werkschemavoorkeur
+- **Vragen van de Ontdekking**: Vooraf geconfigureerde herinneringen die door categorie (leren, analyseren, optimaliseren) worden georganiseerd
+- **Context die** plaatst: Vorm toepassing, zandbak, en montages van de gegevensmening voor gerichte reacties
+- **Visualisatie van Gegevens**: Interactieve grafieken en grafieken voor gegevensinzichten
+- **Controle van de Reactie**: De citaten van Source, het redeneren verklaringen, en koppelt mechanismen terug
+
+### Agent Orchestrator
+
+[ Adobe Experience Platform Agent Orchestrator ](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de rijke gegevens en de kennis van klanten van het platform te benutten en biedt de kracht om de intelligentie en redenering achter speciaal ontwikkelde Adobe Experience Platform Agents te gebruiken, waardoor ze complexe besluitvormings- en probleemoplossende taken op snelheid en schaal kunnen uitvoeren — allemaal met menselijk toezicht. Wanneer u vragen stelt of hulp via natuurlijke taal in een gespreksinterface zoals AI Medewerker verzoekt, roept Agent Orchestrator automatisch op gespecialiseerde agenten om u de juiste antwoorden te krijgen. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
+
+**de componenten van de Kern:**
+
+- **Motor van de Redding**: Creeert geleidelijke plannen en past benaderingen zoals nodig aan
+- **Gespecialiseerde Agenten**: Doel-gebouwde agenten voor specifieke taken en domeinen
+- **Kennisbank**: Veilige toegang tot bedrijfsintelligentie en documentatie
+
+### Gespecialiseerde agents
+
+#### Audience Agent
+
+Verstrekt inzicht over publiek met inbegrip van:
+
+- Belangrijke wijzigingen in de doelgrootte detecteren
+- Dubbele doelgroepen identificeren
+- Overzicht van het publiek verkennen
+- De publieksformaten ophalen
+
+#### Data Insights Agent
+
+Deze agent is beschikbaar in Customer Journey Analytics:
+
+- Beantwoord vragen over uw gegevens in de natuurlijke taal
+- Bouw relevante visualisaties in Analysis Workspace
+- Gebruikt componenten van uw gegevensmening en daadwerkelijke gegevens
+
+#### Journey Agent
+
+Hiermee kunnen Journey Optimizer-gebruikers:
+
+- Reizen maken, analyseren en optimaliseren met natuurlijke taal
+- Plan- of publieksconflicten detecteren en oplossen
+- Prestaties en keuzepunten analyseren
+- Toonaangevende trajecten voor replicatie identificeren
+
+#### Product Support Agent
+
+Biedt foutopsporing met eigen functionaliteit en probleemoplossing:
+
+- Adobe Experience Platform-functies oplossen zonder workflows te verlaten
+- Ondersteuningstickets maken met context van AI Assistant-interacties
+- Wijzigingen in ticket controleren via AI Assistant
+
+## Aan de slag
+
+### Toegangsvereisten
+
+Als u AI Assistant en Experience Platform Agents wilt gebruiken, moet uw Adobe-beheerder de juiste machtigingen instellen:
+
+- **Real-Time CDP en Adobe Journey Optimizer**: Vereist &quot;toelaten AI Medewerker&quot;toestemmingen en de toestemming van de &quot;Operationele Inzichten van de Mening&quot;voor operationele vragen
+- **Customer Journey Analytics**: Toegang door het Toegangsbeheer van Customer Journey Analytics voor de vragen van de productkennis en van gegevensinzichten
+- **Adobe Experience Manager**: Toegang door Adobe Admin Console
+
+### Privacy en beveiliging
+
+AI Assistant is gebouwd met privacy, beveiliging en governance op de voorgrond:
+
+- Er worden geen persoonsgegevens gebruikt voor training
+- Alle bestaande beleidsregels voor toegangsbeheer worden nageleefd
+- Geschikt voor HIPAA bij gebruik met Adobe Experience Platform Healthcare Shield
+- 30 dagen retentiebeleid voor interactielogboeken
+- Sandbox-specifieke gegevensisolatie
+
+## Aanbevolen procedures
+
+- **ben specifiek** in uw herinneringen om gerichte inzichten te krijgen
+- **verifieer reacties** gebruikend broncitaties en het redeneren verklaringen
+- **context het plaatsen van het Gebruik** om relevante gegevensbronnen te verzekeren
+- **verstrekken terugkoppelt** helpen AI Hulp prestaties verbeteren
+- **combineer inzichten** van veelvoudige agenten voor uitvoerige analyse
+
+## Juridische overwegingen
+
+- AI Assistant biedt momenteel alleen ondersteuning voor Engels
+- Reacties altijd controleren als taalmodellen fouten kunnen maken
+- Redenen en uitleg bekijken
+- Feedback verzenden voor problemen of onnauwkeurigheden
+
+Deze handleiding biedt alles wat u nodig hebt om effectief gebruik te maken van AI-mogelijkheden in uw Experience Cloud-toepassingen, van basisinteracties tot geavanceerde agentenorganisatie en gespecialiseerde workflows.
+
