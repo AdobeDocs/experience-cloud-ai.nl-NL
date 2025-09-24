@@ -1,24 +1,30 @@
 ---
-title: Journey Agent Analyseren Overzicht van Vaardigheid en Handboek
+title: De reis analyseert het Overzicht van de Vaardigheid van de Agent en de Gids van de Gebruiker
 description: Uitgebreide handleiding voor de Journey Agent Analyze-vaardigheden, waarmee gebruikers marketingreizen kunnen analyseren, problemen kunnen detecteren, inzichten kunnen ontdekken en de betrokkenheid van klanten kunnen optimaliseren.
 solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
-hide: true
-hidefromtoc: true
-source-git-commit: 3bab2928fba6d06785797630e405b216cc080fd2
+source-git-commit: 04afa45b0fae7aace9bd81afd2ac032c7d0f55c6
 workflow-type: tm+mt
-source-wordcount: '791'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
 
 
-# Journey Agent Analyze: Overzicht van vaardigheden en Handleiding
+# De Agent van de Analyse van de reis: Het Overzicht van de Vaardigheid en de Gids van de Gebruiker
 
 ## Overzicht
 
-Journey Agent stelt Journey Optimizer-gebruikers in staat ritten te maken, te analyseren en te optimaliseren met behulp van een natuurlijke taalinterface. Met Journey Agent kunnen artsen snel reizen maken, plannings- of publieksconflicten detecteren en oplossen, prestaties en aflooppunten analyseren en best presterende reizen identificeren om te repliceren voor toekomstige campagnes. Het stelt praktijkmensen in staat om gegevensgestuurde beslissingen te nemen, de betrokkenheid van klanten te verbeteren en de reisorganisatie te stroomlijnen.
+Journey Agent stelt Journey Optimizer-gebruikers in staat om reizen te analyseren en te optimaliseren met behulp van een natuurlijke taalinterface. Met Journey Agent kunnen artsen snel planning- en/of publieksconflicten herkennen en oplossen, punten van gebruikersafzetting tijdens een reis detecteren en inzichten of aanbevelingen geven. Het stelt praktijkmensen in staat om gegevensgestuurde beslissingen te nemen, de betrokkenheid van klanten te verbeteren en de reisorganisatie te stroomlijnen.
+
+>[!AVAILABILITY]
+>
+>De Audience Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de Audience Agent-functies volledig te kunnen gebruiken.
+>
+>**Segmenten van de Mening**: Deze toestemming laat u Audience Agent gebruiken om inzichten in het publiek direct in AI Medewerker te bekijken.
+>>**Segmenten beheren**: met de machtiging kunt u de Audience Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
+
 
 ![ Steekproef voor de Agent van AJO ](./images/ajo-agent/ajo-agent-sample.png)
 
@@ -50,6 +56,8 @@ De Journey Agent Analyze-vaardigheden bieden een aantal functies die kunnen word
 
    - Reisdiepten op basis van vragen - Operationele inzichten op de oppervlakte over reizen, d.w.z. &quot;toon me alle levende reizen.&quot;
 
+Voor elk van deze analyses, ontdekt de agent niet alleen kwesties maar ook verstrekt **actionable aanbevelingen om hen** op te lossen.
+
 
 ## In Toepassingsgebied en Buiten bereik
 
@@ -59,6 +67,7 @@ De volgende mogelijkheden worden ondersteund door Journey Agent Analyze:
 
 - **Reactive Vragen**: Staat gebruikers toe om specifieke vragen over reisprestaties, publieksgebruik, en het plannen van conflicten te stellen.
 - **Integratie met Andere Agenten**: werkt met Audience Agent en Data Insights Agent voor diepere analyse samen.
+- **de reactiestructuur van de Agent**: het redeneren (verklaar de logica), analyse samenvatting (benadruk zeer belangrijke punten), uitgiftedetails (beschrijf het probleem), en aanbeveling (stel volgende stappen voor).
 
 ### **uit Toepassingsgebied**
 
@@ -92,6 +101,10 @@ Hier zijn voorbeelden van waardevolle herinneringen gebruikers kunnen hefboomwer
 
 - &quot;Welk publiek wordt gebruikt voor meer dan X reizen?&quot;
 - &quot;Maak een lijst van alle reizen gebruikend het [ publiek naam ] publiek.&quot;
+
+### Falloutanalyse
+
+
 
 ### Vragen om conflictoanalyse
 
