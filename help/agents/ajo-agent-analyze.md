@@ -4,9 +4,9 @@ description: Uitgebreide handleiding voor de Journey Agent Analyze-vaardigheden,
 solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
-source-git-commit: 04afa45b0fae7aace9bd81afd2ac032c7d0f55c6
+source-git-commit: 56dbe826fc73cbf699f08b12014b2b73d2bab71b
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,12 @@ Journey Agent stelt Journey Optimizer-gebruikers in staat om reizen te analysere
 
 >[!AVAILABILITY]
 >
->De Audience Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de Audience Agent-functies volledig te kunnen gebruiken.
+>De Journey Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de Journey Agent-functies volledig te kunnen gebruiken.
 >
->**Segmenten van de Mening**: Deze toestemming laat u Audience Agent gebruiken om inzichten in het publiek direct in AI Medewerker te bekijken.
->&#x200B;>**Segmenten beheren**: met de machtiging kunt u de Audience Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
-
+>**Reizen van de Mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in de reis in AI Medewerker direct te bekijken.
+>>**Reizen beheren**: met de machtiging kunt u de Journey Agent gebruiken om nieuwe reizen rechtstreeks in AI Assistant te maken.
+>>**Segmenten van de mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in het publiek in AI Medewerker direct te bekijken.
+>>**Segmenten beheren**: met de machtiging kunt u de Journey Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
 
 ![ Steekproef voor de Agent van AJO ](./images/ajo-agent/ajo-agent-sample.png)
 
