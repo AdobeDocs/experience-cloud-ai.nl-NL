@@ -1,9 +1,9 @@
 ---
 title: AI in Experience Cloud-toepassingen
 description: Leer hoe Experience Cloud-toepassingen gebruikmaken van generatieve AI (GenAI), AI Assistant en AGentic AI.
-source-git-commit: 860b0f2414dc006c23fedcd7b0e29727fc0641d4
+source-git-commit: 58cce845f525e7762f32379a8db5791b677ae54f
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -59,10 +59,9 @@ Deze agent is beschikbaar in Customer Journey Analytics:
 
 Hiermee kunnen Journey Optimizer-gebruikers:
 
-- Reizen maken, analyseren en optimaliseren met natuurlijke taal
+- Reizen analyseren en optimaliseren met natuurlijke taal
 - Plan- of publieksconflicten detecteren en oplossen
 - Prestaties en keuzepunten analyseren
-- Toonaangevende trajecten voor replicatie identificeren
 
 #### Product Support Agent
 
