@@ -4,7 +4,7 @@ description: Uitgebreide handleiding voor de Journey Agent Analyze-vaardigheden,
 solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
-source-git-commit: cf29a28477881b400b32b4623ccff2e626010e10
+source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -23,9 +23,12 @@ Journey Agent stelt Journey Optimizer-gebruikers in staat om reizen te analysere
 >De Journey Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de Journey Agent-functies volledig te kunnen gebruiken.
 >
 >**Reizen van de Mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in de reis in AI Medewerker direct te bekijken.
->&#x200B;>**Reizen beheren**: met de machtiging kunt u de Journey Agent gebruiken om nieuwe reizen rechtstreeks in AI Assistant te maken.
->&#x200B;>**Segmenten van de mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in het publiek in AI Medewerker direct te bekijken.
->&#x200B;>**Segmenten beheren**: met de machtiging kunt u de Journey Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
+>
+>**beheert Reizen**: Aan toestemmingen laat u Journey Agent gebruiken om nieuwe reizen direct in AI Medewerker tot stand te brengen.
+>
+>**Segmenten van de Mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in het publiek direct in AI Medewerker te bekijken.
+>
+>**beheert Segmenten**: Aan toestemming laat u Journey Agent gebruiken om nieuw publiek in AI Medewerker direct tot stand te brengen.
 
 ![ Steekproef voor de Agent van AJO ](./images/ajo-agent/ajo-agent-sample.png)
 
@@ -140,7 +143,6 @@ Gebruik deze herinneringen om potentiële conflicten tussen reizen, met inbegrip
 - &quot;Analyseer conflictrisico voor reis [ Naam van de Reis ].&quot;
 - &quot;Verstrek conflictdiagnostiek voor [ Naam van de Reis ].&quot;
 
-
 ## Aanbevolen procedures
 
 ### Aankondiging van beste praktijken
@@ -150,7 +152,6 @@ Volg de volgende aanbevolen procedures om Journey Agent Analyze zo doeltreffend 
 1. **ben Specifiek**: Gebruik duidelijke en beknopte herinneringen om gerichte inzichten te krijgen. In plaats van bijvoorbeeld te vragen &quot;Wat zijn mijn reizen?&quot;, geeft u &quot;Alle reizen weergeven die in de laatste maand zijn gemaakt&quot; op.
 1. **combineer Inzichten**: Inzicht van Audience Agent en Data Insights Agent voor een holistische mening van reisprestaties integreren.
 1. **Iteratieve Verfijning**: De fallout van het gebruik en overlappende analyse om reisontwerp en het plannen te verfijnen.
-
 
 ### Aanbevolen werkwijzen instellen
 

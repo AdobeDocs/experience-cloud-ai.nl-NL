@@ -1,7 +1,7 @@
 ---
 title: UI-gids voor AI-assistent
 description: Leer hoe u AI Assistant opent en gebruikt in de gebruikersinterface.
-source-git-commit: 860b0f2414dc006c23fedcd7b0e29727fc0641d4
+source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
 workflow-type: tm+mt
 source-wordcount: '1767'
 ht-degree: 0%
@@ -57,12 +57,12 @@ De interface AI Assistant bevat verschillende belangrijke elementen waarmee u ef
 De spoormening verleent snelle toegang tot praatje, ontdekkingsherinneringen, updates, gesprekken, en interfacecontroles in een compact paneel.
 
 1. **[!UICONTROL Chat]**: selecteer **[!UICONTROL Chat]** in de koptekst om terug te keren naar uw gesprek in het geval dat u de toegang tot verschillende elementen in de interface hebt verlaten.
-2. **[!UICONTROL Discovery]**: selecteer **[!UICONTROL Discovery]** om een lijst weer te geven met instructies voor AI Assistant, ingedeeld op categorie. U kunt deze vooraf geconfigureerde aanwijzingen gebruiken om uw chat te vullen. Bovendien kunt u de voorgestelde aanwijzingen aanpassen om aan uw specifieke gebruiksscenario te voldoen.
-3. **[!UICONTROL What's New]**: selecteer **[!UICONTROL What's New]** om een lijst weer te geven met de meest recente updates die beschikbaar zijn voor AI Assistant.
-4. **[!UICONTROL Conversations]**: Selecteer het pictogram **[!UICONTROL Conversations]** om een nieuw gesprek te beginnen en recente gesprekken vanuit uw geschiedenis te openen. Voor meer informatie, lees de sectie over [ gesprekken ](#conversations).
-5. **Volledige het schermmening**: Selecteer het **[!UICONTROL Full screen view]** pictogram om uw interface van AI Hulp van het juiste spoor in het volledige schermwijze te veranderen.
-6. **Gegevens en objecten autocomplete**: Selecteer het plus pictogram om gegevens en objecten suggestie en autocomplete te gebruiken. Als deze optie is geselecteerd, kunt u een pop-upvenster gebruiken om voorgestelde entiteiten te selecteren. Voor meer informatie, lees de sectie over [ gegevens en objecten autocomplete ](#autocomplete).
-7. **Context die** plaatst: Selecteer het Context die pictogram plaatsen om informatiebronnen voor AI Medewerker te vormen. Met dit gereedschap kunt u de toepassing, sandbox en gegevensweergave configureren waarnaar wordt verwezen in de AI-assistent om uw query te beantwoorden. Voor meer informatie, lees de sectie over [ context die ](#context-setting) plaatst.
+1. **[!UICONTROL Discovery]**: selecteer **[!UICONTROL Discovery]** om een lijst weer te geven met instructies voor AI Assistant, ingedeeld op categorie. U kunt deze vooraf geconfigureerde aanwijzingen gebruiken om uw chat te vullen. Bovendien kunt u de voorgestelde aanwijzingen aanpassen om aan uw specifieke gebruiksscenario te voldoen.
+1. **[!UICONTROL What's New]**: selecteer **[!UICONTROL What's New]** om een lijst weer te geven met de meest recente updates die beschikbaar zijn voor AI Assistant.
+1. **[!UICONTROL Conversations]**: Selecteer het pictogram **[!UICONTROL Conversations]** om een nieuw gesprek te beginnen en recente gesprekken vanuit uw geschiedenis te openen. Voor meer informatie, lees de sectie over [ gesprekken ](#conversations).
+1. **Volledige het schermmening**: Selecteer het **[!UICONTROL Full screen view]** pictogram om uw interface van AI Hulp van het juiste spoor in het volledige schermwijze te veranderen.
+1. **Gegevens en objecten autocomplete**: Selecteer het plus pictogram om gegevens en objecten suggestie en autocomplete te gebruiken. Als deze optie is geselecteerd, kunt u een pop-upvenster gebruiken om voorgestelde entiteiten te selecteren. Voor meer informatie, lees de sectie over [ gegevens en objecten autocomplete ](#autocomplete).
+1. **Context die** plaatst: Selecteer het Context die pictogram plaatsen om informatiebronnen voor AI Medewerker te vormen. Met dit gereedschap kunt u de toepassing, sandbox en gegevensweergave configureren waarnaar wordt verwezen in de AI-assistent om uw query te beantwoorden. Voor meer informatie, lees de sectie over [ context die ](#context-setting) plaatst.
 
 ![ AI Medewerker in spoorweergave ](./images/ai-assistant/rail-mode.png)
 

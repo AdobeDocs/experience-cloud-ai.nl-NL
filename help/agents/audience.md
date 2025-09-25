@@ -1,7 +1,7 @@
 ---
 title: Audience Agent
 description: Leer hoe u de Audience Agent gebruikt om een publiek te maken, wijzigingen in het publiek weer te geven, dubbele doelgroepen te detecteren en publieksinzichten weer te geven.
-source-git-commit: d91aac948a6fef36949218004dc0481dc8f5cf7f
+source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
@@ -16,7 +16,8 @@ ht-degree: 0%
 >De Audience Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de Audience Agent-functies volledig te kunnen gebruiken.
 >
 >**Segmenten van de Mening**: Deze toestemming laat u Audience Agent gebruiken om inzichten in het publiek direct in AI Medewerker te bekijken.
->&#x200B;>**Segmenten beheren**: met de machtiging kunt u de Audience Agent gebruiken om rechtstreeks een nieuw publiek te maken in de AI Assistant.
+>
+>**beheert Segmenten**: Aan toestemming laat u Audience Agent gebruiken om nieuw publiek in AI Medewerker direct tot stand te brengen.
 
 In de Audience Agent kunt u inzichten weergeven over het publiek, zoals het detecteren van belangrijke wijzigingen in de publieksgrootte, het detecteren van dubbele doelgroepen, het verkennen van uw publieksinventaris en het ophalen van de grootte van uw publiek.
 
@@ -25,27 +26,39 @@ In de Audience Agent kunt u inzichten weergeven over het publiek, zoals het dete
 De Audience Agent in AI Assistant ondersteunt de volgende gebruiksgevallen:
 
 - Zoek de grootte van uw publiek en detecteer belangrijke wijzigingen in de grootte van het publiek
+
    - Dit laat u publiek vinden dat plotseling is gegroeid of gekrompen, latend u potentiële marktveranderingen beter kunt analyseren
+
 - Gedupliceerde doelgroepen detecteren
+
    - Hierdoor kunt u ontslagen bij uw nieuwe publiek verminderen
+
 - Naar soorten publiek zoeken op basis van volledige of gedeeltelijke benoemde kenmerken
+
    - Zo kunt u gemakkelijker door uw publieksoverzicht navigeren
+
 - Ontdek XDM gebieden u kunt gebruiken om een publiek te bepalen
+
    - Deze vaardigheid laat u gemakkelijker de juiste gebieden identificeren in uw publiek dat op context en relevantie wordt gebaseerd
 
-Audience Agent steunt momenteel niet **&#x200B;**&#x200B;de volgende eigenschappen:
+Audience Agent steunt momenteel niet **** de volgende eigenschappen:
 
 - Kennisgebaseerde publiekscreatie
+
    - De op kennis-gebaseerde publieksverwezenlijking leidt tot een publiek dat op de bepaalde attributen en de gebeurtenissen wordt gebaseerd
    - Bovendien kunt u de potentiële grootte van het publiek vóór de publieksverwezenlijking schatten. Zo kunt u snel het meest effectieve publiek doorlopen voordat het klaar is om te activeren
    - Deze functie wordt binnenkort ondersteund
+
 - Goal-based publieksverkenning
+
    - Met doelgerichte publieksverkenning kunt u relevante datasets en profielen detecteren die zijn afgestemd op een zakelijk doel door modellen voor machinaal leren toe te passen, zoals de neiging om te kopen of om te zetten.
 
 Wanneer u Audience Agent gebruikt, moet u bovendien rekening houden met de volgende beperkingen:
 
 - Audience Agent heeft minstens 24 uur nodig om uw gegevens te verwerken
+
    - Bijvoorbeeld, kunt u **niet** een vraag hebben die gegevens binnen de laatste 24 uren zoekt. Je moet minimaal binnen de laatste 48 uur kijken.
+
 - Audience Agent steunt slechts **mensen** gebaseerd publiek dat gebruikend partijsegmentatie wordt geëvalueerd
 
 ## Voorbeeldaanwijzingen
