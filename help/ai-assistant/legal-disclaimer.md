@@ -1,7 +1,7 @@
 ---
 title: Juridische Disclaimer - Persoonlijke gegevens, taalondersteuning en Reacties controleren
 description: Meer informatie over juridische disclaimers met betrekking tot persoonlijke gegevens, taalondersteuning en het controleren van reacties bij gebruik van AI Assistant.
-source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
+source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -25,3 +25,4 @@ AI Assistant wordt momenteel alleen ondersteund in het Engels. Niet-Engelse invo
 ## Reacties controleren {#verifying-responses}
 
 Het is belangrijk om uw antwoorden te controleren, aangezien de taalmodellen fouten kunnen maken. Verifieer altijd de bronnen om ervoor te zorgen dat SQL logica correct is en dat de aangewezen documentatie voor uw gebruiksgeval werd van verwijzingen voorzien. Herzie de redeneringsstappen en de toelichting die door AI Assistant zijn verstrekt om te begrijpen hoe het antwoord is gekomen. Geef feedback als iets er niet goed uitziet.
+

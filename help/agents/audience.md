@@ -1,7 +1,7 @@
 ---
 title: Audience Agent
 description: Leer hoe u de Audience Agent gebruikt om een publiek te maken, wijzigingen in het publiek weer te geven, dubbele doelgroepen te detecteren en publieksinzichten weer te geven.
-source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
+source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
@@ -41,7 +41,7 @@ De Audience Agent in AI Assistant ondersteunt de volgende gebruiksgevallen:
 
    - Deze vaardigheid laat u gemakkelijker de juiste gebieden identificeren in uw publiek dat op context en relevantie wordt gebaseerd
 
-Audience Agent steunt momenteel niet **&#x200B;**&#x200B;de volgende eigenschappen:
+Audience Agent steunt momenteel niet **** de volgende eigenschappen:
 
 - Kennisgebaseerde publiekscreatie
 
@@ -164,3 +164,4 @@ Wat is mijn snelst groeiende publiek?
 ## Volgende stappen
 
 Nadat u deze handleiding hebt gelezen, hebt u beter inzicht in Audience Agent en de functies die deze ondersteunt. Voor meer informatie over agenten in Adobe Experience Platform, lees het [ overzicht van Agent Orchestrator ](./agent-orchestrator.md).
+

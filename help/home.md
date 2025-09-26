@@ -1,7 +1,7 @@
 ---
 title: AI in Experience Cloud-toepassingen
 description: Leer hoe Experience Cloud-toepassingen gebruikmaken van generatieve AI (GenAI), AI Assistant en AGentic AI.
-source-git-commit: 06d80a7166dd9506cec570a79ed5eba4c2b5fe3c
+source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '645'
 ht-degree: 0%
@@ -107,4 +107,3 @@ AI Assistant is gebouwd met privacy, beveiliging en governance op de voorgrond:
 - Feedback verzenden voor problemen of onnauwkeurigheden
 
 Deze handleiding biedt alles wat u nodig hebt om effectief gebruik te maken van AI-mogelijkheden in uw Experience Cloud-toepassingen, van basisinteracties tot geavanceerde agentenorganisatie en gespecialiseerde workflows.
-

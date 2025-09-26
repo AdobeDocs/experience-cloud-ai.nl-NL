@@ -1,7 +1,7 @@
 ---
 title: AI Assistant Promptbibliotheek
 description: Leer over de verschillende soorten herinneringen en vraagpatronen die u kunt gebruiken wanneer het vragen van AI Medewerker.
-source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
+source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '811'
 ht-degree: 0%
@@ -133,3 +133,4 @@ Met de Product Support Agent kunt u problemen oplossen, ondersteuningsgevallen m
 
 - &quot;Wat is de laatste over mijn zaak E-12345?&quot;
 - &quot;Wat is de update op ticket E-67890?&quot;
+
