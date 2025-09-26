@@ -41,7 +41,7 @@ De Audience Agent in AI Assistant ondersteunt de volgende gebruiksgevallen:
 
    - Deze vaardigheid laat u gemakkelijker de juiste gebieden identificeren in uw publiek dat op context en relevantie wordt gebaseerd
 
-Audience Agent steunt momenteel niet **** de volgende eigenschappen:
+Audience Agent steunt momenteel niet **&#x200B;**&#x200B;de volgende eigenschappen:
 
 - Kennisgebaseerde publiekscreatie
 
