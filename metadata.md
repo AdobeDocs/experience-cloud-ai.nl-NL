@@ -6,7 +6,7 @@ type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-cloud-ai.nl-NL
 index: true
-source-git-commit: 63c53db7347c1d5998cb6439833b4f735623d4fb
+source-git-commit: 00bb5af3650dc661da5f007b2062ea2a496a3082
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 98%
@@ -19,3 +19,4 @@ ht-degree: 98%
 Het bestand metadata.md bevat metadata op repo-niveau die worden doorgegeven aan de handleiding voor TOC.md-bestanden in de repo. Als u de inhoud van metadata.md voor een handleiding wilt wijzigen, doe dit dan in een TOC.md-bestand.
 
 Zie [Metadata](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=nl) voor een lijst met geldige waarden voor **oplossing**, **product** en **type**.
+
