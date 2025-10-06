@@ -4,9 +4,9 @@ description: Uitgebreide handleiding voor de Journey Agent Analyze-vaardigheden,
 solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
-source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
+source-git-commit: 26b579471b591d3c436f4275d07303d297e0fbf8
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '979'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,19 @@ ht-degree: 0%
 
 Journey Agent stelt Journey Optimizer-gebruikers in staat om reizen te analyseren en te optimaliseren met behulp van een natuurlijke taalinterface. Met Journey Agent kunnen artsen snel planning- en/of publieksconflicten herkennen en oplossen, punten van gebruikersafzetting tijdens een reis detecteren en inzichten of aanbevelingen geven. Het stelt praktijkmensen in staat om gegevensgestuurde beslissingen te nemen, de betrokkenheid van klanten te verbeteren en de reisorganisatie te stroomlijnen.
 
+Leer meer en ontdek de agent in een blik in dit [ overzicht ](https://experienceleague.adobe.com/en/slides/journey-agent-overview).
+
 >[!AVAILABILITY]
 >
->De Journey Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de Journey Agent-functies volledig te kunnen gebruiken.
+>De Journey Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de Journey Agent-functies volledig te kunnen gebruiken:
 >
->**Reizen van de Mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in de reis in AI Medewerker direct te bekijken.
+>**Reizen van de Mening**: Deze toestemming laat u inzichten in de reis direct in AI Medewerker bekijken.
 >
->**beheert Reizen**: Aan toestemmingen laat u Journey Agent gebruiken om nieuwe reizen direct in AI Medewerker tot stand te brengen.
+>**beheert Reizen**: Aan toestemmingen laat u nieuwe reizen direct in AI Medewerker tot stand brengen.
 >
->**Segmenten van de Mening**: Deze toestemming laat u Journey Agent gebruiken om inzichten in het publiek direct in AI Medewerker te bekijken.
+>**Segmenten van de Mening**: Deze toestemming laat u inzichten in het publiek direct in AI Medewerker bekijken.
 >
->**beheert Segmenten**: Aan toestemming laat u Journey Agent gebruiken om nieuw publiek in AI Medewerker direct tot stand te brengen.
+>**beheer Segmenten**: Aan toestemming laat u nieuw publiek direct in AI Medewerker tot stand brengen.
 
 ![ Steekproef voor de Agent van AJO ](./images/ajo-agent/ajo-agent-sample.png)
 
