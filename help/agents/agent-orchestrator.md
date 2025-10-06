@@ -1,30 +1,30 @@
 ---
 title: Adobe Experience Platform Agent Orchestrator
 description: Meer weten over Adobe Experience Platform Agent Orchestrator?
-source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
+source-git-commit: a77ff0217f91a23c69902f2f48bc2bd399818b6d
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '945'
 ht-degree: 0%
 
 ---
 
 # Adobe Experience Platform Agent Orchestrator
 
-Adobe Experience Platform Agent Orchestrator is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de rijke gegevens en de kennis van klanten van het platform te benutten en biedt de kracht om de intelligentie en redenering achter speciaal ontwikkelde Adobe Experience Platform Agents te gebruiken, waardoor ze complexe besluitvormings- en probleemoplossende taken op snelheid en schaal kunnen uitvoeren — allemaal met menselijk toezicht. Wanneer u vragen stelt of hulp via natuurlijke taal in een gespreksinterface zoals AI Medewerker verzoekt, roept Agent Orchestrator automatisch op gespecialiseerde agenten om u de juiste antwoorden te krijgen. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
+Adobe Experience Platform Agent Orchestrator is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de kennis van Experience Platform met rijke gegevens en klanten te benutten en geeft de kracht om de intelligentie en redenering achter speciaal opgebouwde Adobe Experience Platform-agents te gebruiken, waardoor ze complexe besluitvormings- en probleemoplossende taken op snelheid en schaal kunnen uitvoeren — allemaal met menselijk toezicht. Wanneer u vragen stelt of hulp via natuurlijke taal in een gespreksinterface zoals AI Medewerker verzoekt, roept Agent Orchestrator automatisch op gespecialiseerde agenten om u de juiste antwoorden te krijgen. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
 
-U kunt complexe end-to-end werkschema&#39;s door een intuïtieve gespreksinterface voltooien zonder het moeten weten welke agenten achter de scènes werken. Het systeem begrijpt uw doelstellingen, leidt tot geleidelijke plannen, en past zijn benadering aan zoals nodig gebaseerd op uw terugkoppelt. U kunt het redeneringspaneel onderzoeken om het geleidelijke denken proces te zien en beter te begrijpen hoe uw verzoeken worden behandeld. Met Agent Orchestrator kunt u complexe workflows aanpakken en strategieën optimaliseren voor verschillende Adobe Experience Cloud-toepassingen.
+U kunt complexe end-to-end werkschema&#39;s door een intuïtieve gespreksinterface voltooien zonder het moeten weten welke agenten achter de scènes werken. Het systeem begrijpt uw doelstellingen, leidt tot geleidelijke plannen, en past zijn benadering aan zoals nodig gebaseerd op uw terugkoppelt. Binnen uw gesprek in AI Medewerker, kunt u het het redeneren van Agent Orchestrator paneel onderzoeken om het geleidelijke denken proces te zien en beter te begrijpen hoe uw verzoeken worden behandeld.
 
 Lees dit document voor meer informatie over Agent Orchestrator.
 
 ## Componenten van Agent Orchestrator {#components}
 
-Agent Orchestrator bestaat uit verschillende belangrijke onderdelen, waaronder de AI Assistant-interface voor gesprekken, een redeneringsmotor voor besluitvorming en planning, gespecialiseerde Adobe Experience Platform-agenten en een kennisbasis die toegang biedt tot relevante informatie.
+Agent Orchestrator bestaat uit verschillende sleutelcomponenten, waaronder de AI Assistant-interface voor gesprekken, een redeneringsmotor voor besluitvorming en planning, gespecialiseerde Adobe Experience Platform-agenten en een kennisbasis die toegang biedt tot relevante informatie.
 
 ![ de marketing architectuur van Agent Orchestrator.](./images/agent-orchestrator/agentic-architecture.png)
 
 ### AI Assistant-interface voor gesprekken {#ai-assistant}
 
-AI Assistant is een conversatie-ervaring die u kunt gebruiken om uw workflows in Adobe-toepassingen te versnellen. U kunt AI Medewerker gebruiken om productkennis beter te begrijpen, problemen problemen op te lossen, of door informatie te zoeken en operationele inzichten te vinden. AI Assistant ondersteunt Experience Platform, Real-Time Customer Data Platform, Adobe Journey Optimizer en Customer Journey Analytics. Met AI Assistant hebt u toegang tot Experience Platform Agents en andere AI-functies.
+AI Assistant is een intelligente, conversatie-ervaring in de natuurlijke taal die artsen die ingeschakelde Experience Cloud-toepassingen gebruiken, in staat stelt gebruik te maken van GenAI- en Agentic AI-mogelijkheden, waarvan de breedte afhankelijk is van de Experience Cloud-toepassingen waarvoor klanten een licentie hebben verleend. Om toegang te ontgrendelen, lees [ de gids bij de toegang tot van AI Medewerker ](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/access).
 
 Voor meer informatie, lees de [ AI Hulp UI gids ](../ai-assistant/ai-assistant-ui.md).
 
@@ -34,13 +34,17 @@ De motor van de Redenen interpreteert uw doelstellingen die op uw natuurlijke ta
 
 ### Adobe Experience Platform Agents {#agents}
 
+Adobe Experience Platform Agents zijn doelgerichte groepering van AI-agents die veel ervaring hebben met het aanbieden van algemene taken op verschillende domeinen van de klantervaring. Hieronder vindt u een lijst met Adobe Experience Platform-agents die momenteel beschikbaar zijn in Experience Cloud-toepassingen:
+
 | Agent | Details | Ondersteunde toepassingen |
 | --- | --- | --- |
 | [ Audience Agent ](audience.md) | In Audience Agent kunt u inzicht weergeven in het publiek, zoals het detecteren van belangrijke wijzigingen in de publieksgrootte, het detecteren van dubbele doelgroepen, het verkennen van uw publieksoverzicht en het ophalen van de grootte van uw publiek. | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> |
-| [ Data Insights Agent ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) | Data Insights Agent, dat vanuit de AI Assistant in Customer Journey Analytics toegankelijk is, is een generatieve AI-gespreksagent die snel en efficiënt vragen over uw gegevens beantwoordt. In Analysis Workspace worden relevante visualisaties gemaakt aan de hand van componenten uit uw gegevensweergave en met behulp van uw werkelijke gegevens. | Customer Journey Analytics |
-| Experimentatieagent | De Experimentation Agent helpt teams sneller te leren door experimentele resultaten te analyseren, de impact te voorspellen en nieuwe experimenten voor te stellen. Het centraliseert verleden en actieve experimenten zodat kunt u voortbouwen op wat u reeds hebt geleerd, vlekkleuningen, en prioriteren wat om daarna te testen. | Adobe Journey Optimizer Experimentation Accelerator |
+| [ Data Insights Agent ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) | Data Insights Agent, dat vanuit de AI Assistant in Customer Journey Analytics toegankelijk is, is een generatieve AI-gespreksagent die snel en efficiënt vragen over uw gegevens beantwoordt. In Analysis Workspace worden relevante visualisaties gemaakt aan de hand van componenten uit uw gegevensweergave en met behulp van uw werkelijke gegevens. | Customer Journey Analytics |
+| Experimentatieagent | De agent van de experimentatie helpt teams sneller leren door experimentatieresultaten te analyseren, effect te voorspellen, en nieuwe experimenten voor te stellen. Het centraliseert verleden en actieve experimenten zodat kunt u voortbouwen op wat u reeds hebt geleerd, vlekkleuningen, en prioriteren wat om daarna te testen. | Adobe Journey Optimizer Experimentation Accelerator |
 | [ Journey Agent ](./ajo-agent-analyze.md) | Met Journey Agent kunnen Adobe Journey Optimizer-gebruikers reizen maken, analyseren en optimaliseren met behulp van een natuurlijke taalinterface. Met Journey Agent kunt u snel reizen maken, plannings- of publieksconflicten opsporen en oplossen, prestaties en aflooppunten analyseren en best presterende reizen identificeren die u wilt repliceren voor toekomstige campagnes. Het helpt u gegevensgestuurde beslissingen te maken, de betrokkenheid van klanten te verbeteren en reisorchestratie te stroomlijnen. | Adobe Journey Optimizer |
-| [ Agent van de Steun van het Product ](https://experienceleague.adobe.com/nl/docs/experience-platform/ai-assistant/new-features/customer-support) | De Agent van de Steun van het product is zelfbediening het zuiveren en het oplossen van problemenvermogen dat u helpt de eigenschappen en de toepassingen van Adobe Experience Platform problemen oplossen zonder uw werkschema te verlaten. De beheerders van de steun kunnen de kaartjes van de klantensteun met context van uw Hulp van AI tot stand brengen en u kunt kaartupdates controleren door AI Medewerker. | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li><li>Adobe Journey Optimizer B2B edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul> |
+| [ Agent van de Steun van het Product ](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | De Agent van de Steun van het product is zelfbediening het zuiveren en het oplossen van problemenvermogen dat u helpt de eigenschappen en de toepassingen van Adobe Experience Platform problemen oplossen zonder uw werkschema te verlaten. De beheerders van de steun kunnen de kaartjes van de klantensteun met context van uw Hulp van AI tot stand brengen en u kunt kaartupdates controleren door AI Medewerker. | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li><li>Adobe Journey Optimizer B2B edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul> |
+
+Voor verdere informatie over beschikbaarheid van Agenten in de toepassingen van Experience Cloud, te herzien gelieve [ Agentic AI in de documentatie van Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai).
 
 ### Kennisbank {#knowledge-base}
 
@@ -54,11 +58,11 @@ Om toegang tot de AI Hulp gespreksinterface te krijgen en één of meerdere Agen
 
 * **Real-Time CDP** en **Adobe Journey Optimizer**: Uw beheerder moet u **toelaten AI Medewerker** toestemming verlenen om u toe te laten om tot Medewerker toegang te hebben AI. Uw beheerder moet u ook de **Operationele toestemmingen van de Mening verlenen** om u toe te staan om operationele inzichten vragen in AI Medewerker te stellen. Beide toestemmingen worden geplaatst door de beheerder in de Toestemmingen UI.
 
-* **Customer Journey Analytics**: Uw beheerder moet u de toestemming verlenen om tot AI Medewerker door [ het Toegangsbeheer van Customer Journey Analytics ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/technotes/access-control) toegang te hebben. Hierdoor kunt u vragen stellen over productkennis en gegevensinzichten.
+* **Customer Journey Analytics**: Uw beheerder moet u de toestemming verlenen om tot AI Medewerker door [ het Toegangsbeheer van Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control) toegang te hebben. Hierdoor kunt u vragen stellen over productkennis en gegevensinzichten.
 
 >[!NOTE]
 >
 >Voor Customer Journey Analytics zijn geen vragen over operationele inzichten beschikbaar. Er zijn daarom geen aanvullende machtigingen van toepassing.
 
-* **Adobe Experience Manager**: Uw beheerder moet u de toestemming verlenen om tot AI Medewerker door [ Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) toegang te hebben.
+* **Adobe Experience Manager**: Uw beheerder moet u de toestemming verlenen om tot AI Medewerker door [ Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/admin-console.html) toegang te hebben.
 
