@@ -1,11 +1,9 @@
 ---
 title: Experimentatieagent
 description: Leer hoe u de Experimentation Agent gebruikt
-hide: true
-hidefromtoc: true
-source-git-commit: 352ba791195eca7f68e6d317e0f2449d6ededeb2
+source-git-commit: 0069a97bcb35f609019ec32f263175a36525161a
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
@@ -18,7 +16,7 @@ ht-degree: 0%
 >
 >**de Experimenten van de Mening van de Mening**: Deze toestemming laat u de Agent van de Experimentatie gebruiken om inzichten in het experiment direct in AI Medewerker te bekijken.
 >
->**beheert Experiment Metada**: Aan toestemming laat u de Agent van de Experimentatie gebruiken om nieuwe experimenten direct in AI Medewerker tot stand te brengen.
+>**beheert Experiment Metada**: Deze toestemming laat u de Agent van de Experimentatie gebruiken om nieuwe experimenten direct in AI Medewerker tot stand te brengen.
 
 ## Overzicht
 
@@ -32,7 +30,7 @@ Als onderdeel van de Experimentation Accelerator-functie levert de Agent:
 
 * **Kansen**: begeleiding op de volgende te nemen acties
 
-![&#x200B; Steekproef voor de Agent van de Experimentatie &#x200B;](./images/experiment/experiment-agent.png)
+![ Steekproef voor de Agent van de Experimentatie ](./images/experiment/experiment-agent.png)
 
 ## Gevallen gebruiken
 
