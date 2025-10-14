@@ -30,7 +30,7 @@ Als onderdeel van de Experimentation Accelerator-functie levert de Agent:
 
 * **Kansen**: begeleiding op de volgende te nemen acties
 
-![ Steekproef voor de Agent van de Experimentatie ](./images/experiment/experiment-agent.png)
+![&#x200B; Steekproef voor de Agent van de Experimentatie &#x200B;](./images/experiment/experiment-agent.png)
 
 ## Gevallen gebruiken
 
