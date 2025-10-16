@@ -16,7 +16,7 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### AI-assistent
 
-[ AI Medewerker ](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
+[&#x200B; AI Medewerker &#x200B;](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
 
 **Zeer belangrijke eigenschappen:**
 
@@ -28,7 +28,7 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### Agent Orchestrator
 
-[ Adobe Experience Platform Agent Orchestrator ](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de uitgebreide kennis van gegevens en klanten van het platform te benutten. De tool stuurt de intelligentie en redenering aan achter speciaal ontwikkelde, deskundige Adobe Experience Platform Agents. Deze kunnen hierdoor complexe besluitvormings- en probleemoplossingstaken snel en op grote schaal uitvoeren, allemaal onder menselijk toezicht. Wanneer u in natuurlijke taal vragen stelt of om hulp vraagt in een gespreksinterface zoals AI Assistant, roept Agent Orchestrator automatisch gespecialiseerde agenten op om u de juiste antwoorden te geven. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
+[&#x200B; Adobe Experience Platform Agent Orchestrator &#x200B;](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de uitgebreide kennis van gegevens en klanten van het platform te benutten. De tool stuurt de intelligentie en redenering aan achter speciaal ontwikkelde, deskundige Adobe Experience Platform Agents. Deze kunnen hierdoor complexe besluitvormings- en probleemoplossingstaken snel en op grote schaal uitvoeren, allemaal onder menselijk toezicht. Wanneer u in natuurlijke taal vragen stelt of om hulp vraagt in een gespreksinterface zoals AI Assistant, roept Agent Orchestrator automatisch gespecialiseerde agenten op om u de juiste antwoorden te geven. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
 
 **de componenten van de Kern:**
 
