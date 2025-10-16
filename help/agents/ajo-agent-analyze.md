@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Journey Agent stelt Journey Optimizer-gebruikers in staat om reizen te analyseren en te optimaliseren met behulp van een natuurlijke taalinterface. Met Journey Agent kunnen artsen snel planning- en/of publieksconflicten herkennen en oplossen, punten van gebruikersafzetting tijdens een reis detecteren en inzichten of aanbevelingen geven. Het stelt praktijkmensen in staat om gegevensgestuurde beslissingen te nemen, de betrokkenheid van klanten te verbeteren en de reisorganisatie te stroomlijnen.
 
-Leer meer en ontdek de agent in een blik in dit [&#x200B; overzicht &#x200B;](https://experienceleague.adobe.com/en/slides/journey-agent-overview).
+Leer meer en ontdek de agent in een blik in dit [&#x200B; overzicht &#x200B;](https://experienceleague.adobe.com/nl/slides/journey-agent-overview).
 
 >[!AVAILABILITY]
 >
