@@ -1,5 +1,5 @@
 ---
-title: Audience Agent
+title: Audience-agent
 description: Leer hoe u de Audience Agent gebruikt om een publiek te maken, wijzigingen in het publiek weer te geven, dubbele doelgroepen te detecteren en publieksinzichten weer te geven.
 source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
@@ -9,7 +9,7 @@ ht-degree: 0%
 ---
 
 
-# Audience Agent
+# Audience-agent
 
 >[!AVAILABILITY]
 >
@@ -41,7 +41,7 @@ De Audience Agent in AI Assistant ondersteunt de volgende gebruiksgevallen:
 
    - Deze vaardigheid laat u gemakkelijker de juiste gebieden identificeren in uw publiek dat op context en relevantie wordt gebaseerd
 
-Audience Agent steunt momenteel niet **&#x200B;**&#x200B;de volgende eigenschappen:
+Audience Agent steunt momenteel niet **** de volgende eigenschappen:
 
 - Kennisgebaseerde publiekscreatie
 
@@ -71,7 +71,7 @@ Geef me velden weer voor rijke kopers.
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die gebieden toont die voor welkome kopers relevant zijn.](./images/audience/affluent-buyers.png)
+![ AI Medewerker toont een lijst die gebieden toont die voor welkome kopers relevant zijn.](./images/audience/affluent-buyers.png)
 
 +++
 
@@ -79,7 +79,7 @@ Welk publiek is in de afgelopen 30 dagen niet geactiveerd of gebruikt in een cam
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die publiek toont dat niet in campagnes in de laatste 30 dagen geactiveerd of gebruikt is.](./images/audience/not-activated.png)
+![ AI Medewerker toont een lijst die publiek toont dat niet in campagnes in de laatste 30 dagen geactiveerd of gebruikt is.](./images/audience/not-activated.png)
 
 +++
 
@@ -87,7 +87,7 @@ Geef een overzicht van alle soorten publiek die in de afgelopen drie maanden zij
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker maakt een lijst van het één publiek dat aan een nieuwe bestemming in de laatste 3 maanden in kaart is gebracht.](./images/audience/new-destination.png)
+![ AI Medewerker maakt een lijst van het één publiek dat aan een nieuwe bestemming in de laatste 3 maanden in kaart is gebracht.](./images/audience/new-destination.png)
 
 +++
 
@@ -97,7 +97,7 @@ Heb ik een publiek met identieke of vergelijkbare beschrijvingen?
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die de segmentdefinitie en de namen van het publiek met de zelfde segmentdefinities bevat.](./images/audience/similar-descriptions.png)
+![ AI Medewerker toont een lijst die de segmentdefinitie en de namen van het publiek met de zelfde segmentdefinities bevat.](./images/audience/similar-descriptions.png)
 
 +++
 
@@ -105,7 +105,7 @@ Identificeer publiek dat de zelfde regels maar verschillende namen heeft.
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die de namen van publiek bevat dat de zelfde publieksregels deelt.](./images/audience/same-rules-different-names.png)
+![ AI Medewerker toont een lijst die de namen van publiek bevat dat de zelfde publieksregels deelt.](./images/audience/same-rules-different-names.png)
 
 +++
 
@@ -113,7 +113,7 @@ Toon me alle publiek dat de zelfde regels maar verschillende activeringsbestemmi
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont aan dat er geen dubbele segmentdefinities aan verschillende bestemmingen zijn.](./images/audience/same-rules-different-destinations.png)
+![ AI Medewerker toont aan dat er geen dubbele segmentdefinities aan verschillende bestemmingen zijn.](./images/audience/same-rules-different-destinations.png)
 
 +++
 
@@ -123,7 +123,7 @@ Wat is de huidige grootte van mijn publiek &quot;Gold-star members in California
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker verklaart de huidige grootte van het publiek dat werd gevraagd over.](./images/audience/current-size.png)
+![ AI Medewerker verklaart de huidige grootte van het publiek dat werd gevraagd over.](./images/audience/current-size.png)
 
 +++
 
@@ -131,7 +131,7 @@ Wat is mijn grootste publiek?
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker geeft informatie over het publiek met de meeste profielen, met inbegrip van naam en publieksidentiteitskaart.](./images/audience/largest-audience.png)
+![ AI Medewerker geeft informatie over het publiek met de meeste profielen, met inbegrip van naam en publieksidentiteitskaart.](./images/audience/largest-audience.png)
 
 +++
 
@@ -141,7 +141,7 @@ Welk publiek is de afgelopen week met meer dan 20% toegenomen?
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die van de namen van alle publiek een lijst maakt die de vraag aanpassen. Het toont ook de percentageverhoging, de huidige publieksgrootte, evenals de vroegere publieksgrootte.](./images/audience/increase-past-week.png)
+![ AI Medewerker toont een lijst die van de namen van alle publiek een lijst maakt die de vraag aanpassen. Het toont ook de percentageverhoging, de huidige publieksgrootte, evenals de vroegere publieksgrootte.](./images/audience/increase-past-week.png)
 
 +++
 
@@ -149,7 +149,7 @@ Welk publiek is de afgelopen maand met meer dan 10% kleiner geworden?
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die van de namen van alle publiek een lijst maakt die de vraag aanpassen. Het toont ook de huidige publieksgrootte, de vroegere publieksgrootte, evenals de datum van de oude publieksgrootte.](./images/audience/decrease-month.png)
+![ AI Medewerker toont een lijst die van de namen van alle publiek een lijst maakt die de vraag aanpassen. Het toont ook de huidige publieksgrootte, de vroegere publieksgrootte, evenals de datum van de oude publieksgrootte.](./images/audience/decrease-month.png)
 
 +++
 
@@ -157,11 +157,11 @@ Wat is mijn snelst groeiende publiek?
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker verklaart de naam van het snelst groeiende publiek, evenals de huidige grootte en het percentage van de groei.](./images/audience/fastest-growing.png)
+![ AI Medewerker verklaart de naam van het snelst groeiende publiek, evenals de huidige grootte en het percentage van de groei.](./images/audience/fastest-growing.png)
 
 +++
 
 ## Volgende stappen
 
-Nadat u deze handleiding hebt gelezen, hebt u beter inzicht in Audience Agent en de functies die deze ondersteunt. Voor meer informatie over agenten in Adobe Experience Platform, lees het [&#x200B; overzicht van Agent Orchestrator &#x200B;](./agent-orchestrator.md).
+Nadat u deze handleiding hebt gelezen, hebt u beter inzicht in Audience Agent en de functies die deze ondersteunt. Voor meer informatie over agenten in Adobe Experience Platform, lees het [ overzicht van Agent Orchestrator ](./agent-orchestrator.md).
 

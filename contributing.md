@@ -13,7 +13,7 @@ Hieronder volgt een aantal richtlijnen die moeten worden gevolgd wanneer u een b
 
 ## Gedragscode
 
-Dit project valt onder de [gedragscode](code-of-conduct.md) van Adobe. Als u deelneemt, 
+Dit project voldoet aan de Adobe-[gedragscode](code-of-conduct.md). Als u deelneemt, 
 wordt van u verwacht dat u deze code volgt. Meld onaanvaardbaar gedrag aan
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 

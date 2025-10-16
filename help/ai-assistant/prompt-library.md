@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Lees deze handleiding voor verschillende typen aanwijzingen die u kunt gebruiken in AI Assistant.
 
-## Audience Agent
+## Audience-agent
 
 In de volgende secties vindt u voorbeeldaanwijzingen die u met de Audience Agent kunt gebruiken om uw publiek te verkennen en te analyseren. Deze omvatten manieren om publiekseigenschappen te onderzoeken, dubbele publiek te ontdekken, publieksgrootte terug te winnen, en significante veranderingen in publieksgrootte in tijd te controleren. Gebruik deze herinneringen om diepere inzichten te bereiken en de kwaliteit van uw publieksgegevens te handhaven.
 

@@ -4,7 +4,7 @@ description: Leer hoe Experience Cloud-toepassingen gebruikmaken van generatieve
 source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '645'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -16,7 +16,7 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### AI-assistent
 
-[&#x200B; AI Medewerker &#x200B;](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
+[ AI Medewerker ](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
 
 **Zeer belangrijke eigenschappen:**
 
@@ -28,7 +28,7 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### Agent Orchestrator
 
-[&#x200B; Adobe Experience Platform Agent Orchestrator &#x200B;](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de rijke gegevens en de kennis van klanten van het platform te benutten en biedt de kracht om de intelligentie en redenering achter speciaal ontwikkelde Adobe Experience Platform Agents te gebruiken, waardoor ze complexe besluitvormings- en probleemoplossende taken op snelheid en schaal kunnen uitvoeren — allemaal met menselijk toezicht. Wanneer u vragen stelt of hulp via natuurlijke taal in een gespreksinterface zoals AI Medewerker verzoekt, roept Agent Orchestrator automatisch op gespecialiseerde agenten om u de juiste antwoorden te krijgen. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
+[ Adobe Experience Platform Agent Orchestrator ](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de uitgebreide kennis van gegevens en klanten van het platform te benutten. De tool stuurt de intelligentie en redenering aan achter speciaal ontwikkelde, deskundige Adobe Experience Platform Agents. Deze kunnen hierdoor complexe besluitvormings- en probleemoplossingstaken snel en op grote schaal uitvoeren, allemaal onder menselijk toezicht. Wanneer u in natuurlijke taal vragen stelt of om hulp vraagt in een gespreksinterface zoals AI Assistant, roept Agent Orchestrator automatisch gespecialiseerde agenten op om u de juiste antwoorden te geven. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
 
 **de componenten van de Kern:**
 
@@ -38,7 +38,7 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### Gespecialiseerde agents
 
-#### Audience Agent
+#### Audience-agent
 
 Verstrekt inzicht over publiek met inbegrip van:
 
@@ -91,7 +91,7 @@ AI Assistant is gebouwd met privacy, beveiliging en governance op de voorgrond:
 - 30 dagen retentiebeleid voor interactielogboeken
 - Sandbox-specifieke gegevensisolatie
 
-## Aanbevolen procedures
+## Best practices
 
 - **ben specifiek** in uw herinneringen om gerichte inzichten te krijgen
 - **verifieer reacties** gebruikend broncitaties en het redeneren verklaringen

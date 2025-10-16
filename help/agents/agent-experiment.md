@@ -30,9 +30,9 @@ Als onderdeel van de Experimentation Accelerator-functie levert de Agent:
 
 * **Kansen**: begeleiding op de volgende te nemen acties
 
-![&#x200B; Steekproef voor de Agent van de Experimentatie &#x200B;](./images/experiment/experiment-agent.png)
+![ Steekproef voor de Agent van de Experimentatie ](./images/experiment/experiment-agent.png)
 
-## Gevallen gebruiken
+## Gebruiksscenario’s
 
 De Experimentation Agent verbetert elke fase van de testworkflow door resultaten te analyseren, inhoud te interpreteren en volgende stappen voor te stellen.
 
