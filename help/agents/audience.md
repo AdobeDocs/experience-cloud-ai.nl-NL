@@ -1,7 +1,7 @@
 ---
 title: Audience-agent
 description: Leer hoe u de Audience Agent gebruikt om een publiek te maken, wijzigingen in het publiek weer te geven, dubbele doelgroepen te detecteren en publieksinzichten weer te geven.
-source-git-commit: 2c50a4abaf9606e3c7887073053d0cde3ec761e5
+source-git-commit: f2b5bd1a59055a8ca6785abfc2d0a336eea7fd98
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 >**beheert Segmenten**: Aan toestemming laat u Audience Agent gebruiken om nieuw publiek in AI Medewerker direct tot stand te brengen.
 
 In de Audience Agent kunt u inzichten weergeven over het publiek, zoals het detecteren van belangrijke wijzigingen in de publieksgrootte, het detecteren van dubbele doelgroepen, het verkennen van uw publieksinventaris en het ophalen van de grootte van uw publiek.
+
+>[!SLIDE](audience-agent-overview)
 
 ## Ondersteunde gebruiksgevallen
 
@@ -42,7 +44,7 @@ De Audience Agent in AI Assistant ondersteunt de volgende gebruiksgevallen:
 - Discover XDM fields you can use to define an audience
   - This skill lets you more easily identify the right fields to use in your audience based on context and relevance -->
 
-Audience Agent steunt momenteel niet **&#x200B;**&#x200B;de volgende eigenschappen:
+Audience Agent steunt momenteel niet **** de volgende eigenschappen:
 
 - Kennisgebaseerde publiekscreatie
    - De op kennis-gebaseerde publieksverwezenlijking leidt tot een publiek dat op de bepaalde attributen en de gebeurtenissen wordt gebaseerd
@@ -71,7 +73,7 @@ Geef me velden weer voor rijke kopers.
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die gebieden toont die voor welkome kopers relevant zijn.](./images/audience/affluent-buyers.png)
+![ AI Medewerker toont een lijst die gebieden toont die voor welkome kopers relevant zijn.](./images/audience/affluent-buyers.png)
 
 +++
 
@@ -79,7 +81,7 @@ Welk publiek is in de afgelopen 30 dagen niet geactiveerd of gebruikt in een cam
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die publiek toont dat niet in campagnes in de laatste 30 dagen geactiveerd of gebruikt is.](./images/audience/not-activated.png)
+![ AI Medewerker toont een lijst die publiek toont dat niet in campagnes in de laatste 30 dagen geactiveerd of gebruikt is.](./images/audience/not-activated.png)
 
 +++
 
@@ -87,7 +89,7 @@ Geef een overzicht van alle soorten publiek die in de afgelopen drie maanden zij
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker maakt een lijst van het één publiek dat aan een nieuwe bestemming in de laatste 3 maanden in kaart is gebracht.](./images/audience/new-destination.png)
+![ AI Medewerker maakt een lijst van het één publiek dat aan een nieuwe bestemming in de laatste 3 maanden in kaart is gebracht.](./images/audience/new-destination.png)
 
 +++
 
@@ -95,7 +97,7 @@ Welk publiek van de rekening heeft de grootste publieksgrootte en wat is die gro
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die het grootste rekeningspubliek toont.](./images/audience/largest-account-audience.png)
+![ AI Medewerker toont een lijst die het grootste rekeningspubliek toont.](./images/audience/largest-account-audience.png)
 
 +++
 
@@ -105,7 +107,7 @@ Heb ik een publiek met identieke of vergelijkbare beschrijvingen?
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die de segmentdefinitie en de namen van het publiek met de zelfde segmentdefinities bevat.](./images/audience/similar-descriptions.png)
+![ AI Medewerker toont een lijst die de segmentdefinitie en de namen van het publiek met de zelfde segmentdefinities bevat.](./images/audience/similar-descriptions.png)
 
 +++
 
@@ -113,7 +115,7 @@ Identificeer publiek dat de zelfde regels maar verschillende namen heeft.
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die de namen van publiek bevat dat de zelfde publieksregels deelt.](./images/audience/same-rules-different-names.png)
+![ AI Medewerker toont een lijst die de namen van publiek bevat dat de zelfde publieksregels deelt.](./images/audience/same-rules-different-names.png)
 
 +++
 
@@ -121,7 +123,7 @@ Toon me alle publiek dat de zelfde regels maar verschillende activeringsbestemmi
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont aan dat er geen dubbele segmentdefinities aan verschillende bestemmingen zijn.](./images/audience/same-rules-different-destinations.png)
+![ AI Medewerker toont aan dat er geen dubbele segmentdefinities aan verschillende bestemmingen zijn.](./images/audience/same-rules-different-destinations.png)
 
 +++
 
@@ -129,7 +131,7 @@ Accountsoorten identificeren die dezelfde regels hebben maar andere namen hebben
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die de namen en IDs van rekeningspubliek bevat die de zelfde publieksregels delen.](./images/audience/duplicate-account-audience.png)
+![ AI Medewerker toont een lijst die de namen en IDs van rekeningspubliek bevat die de zelfde publieksregels delen.](./images/audience/duplicate-account-audience.png)
 
 +++
 
@@ -139,7 +141,7 @@ Wat is de huidige grootte van mijn publiek &quot;Gold-star members in California
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker verklaart de huidige grootte van het publiek dat werd gevraagd over.](./images/audience/current-size.png)
+![ AI Medewerker verklaart de huidige grootte van het publiek dat werd gevraagd over.](./images/audience/current-size.png)
 
 +++
 
@@ -147,7 +149,7 @@ Wat is mijn grootste publiek?
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker geeft informatie over het publiek met de meeste profielen, met inbegrip van naam en publieksidentiteitskaart.](./images/audience/largest-audience.png)
+![ AI Medewerker geeft informatie over het publiek met de meeste profielen, met inbegrip van naam en publieksidentiteitskaart.](./images/audience/largest-audience.png)
 
 +++
 
@@ -157,7 +159,7 @@ Welk publiek is de afgelopen week met meer dan 20% toegenomen?
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die van de namen van alle publiek een lijst maakt die de vraag aanpassen. Het toont ook de percentageverhoging, de huidige publieksgrootte, evenals de vroegere publieksgrootte.](./images/audience/increase-past-week.png)
+![ AI Medewerker toont een lijst die van de namen van alle publiek een lijst maakt die de vraag aanpassen. Het toont ook de percentageverhoging, de huidige publieksgrootte, evenals de vroegere publieksgrootte.](./images/audience/increase-past-week.png)
 
 +++
 
@@ -165,7 +167,7 @@ Welk publiek is de afgelopen maand met meer dan 10% kleiner geworden?
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker toont een lijst die van de namen van alle publiek een lijst maakt die de vraag aanpassen. Het toont ook de huidige publieksgrootte, de vroegere publieksgrootte, evenals de datum van de oude publieksgrootte.](./images/audience/decrease-month.png)
+![ AI Medewerker toont een lijst die van de namen van alle publiek een lijst maakt die de vraag aanpassen. Het toont ook de huidige publieksgrootte, de vroegere publieksgrootte, evenals de datum van de oude publieksgrootte.](./images/audience/decrease-month.png)
 
 +++
 
@@ -173,11 +175,11 @@ Wat is mijn snelst groeiende publiek?
 
 +++ Antwoord
 
-![&#x200B; AI Medewerker verklaart de naam van het snelst groeiende publiek, evenals de huidige grootte en het percentage van de groei.](./images/audience/fastest-growing.png)
+![ AI Medewerker verklaart de naam van het snelst groeiende publiek, evenals de huidige grootte en het percentage van de groei.](./images/audience/fastest-growing.png)
 
 +++
 
 ## Volgende stappen
 
-Nadat u deze handleiding hebt gelezen, hebt u beter inzicht in Audience Agent en de functies die deze ondersteunt. Voor meer informatie over agenten in Adobe Experience Platform, lees het [&#x200B; overzicht van Agent Orchestrator &#x200B;](./agent-orchestrator.md).
+Nadat u deze handleiding hebt gelezen, hebt u beter inzicht in Audience Agent en de functies die deze ondersteunt. Voor meer informatie over agenten in Adobe Experience Platform, lees het [ overzicht van Agent Orchestrator ](./agent-orchestrator.md).
 

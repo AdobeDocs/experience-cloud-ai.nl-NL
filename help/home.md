@@ -1,10 +1,10 @@
 ---
 title: AI in Experience Cloud-toepassingen
 description: Leer hoe Experience Cloud-toepassingen gebruikmaken van generatieve AI (GenAI), AI Assistant en AGentic AI.
-source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
+source-git-commit: a19c891d1a17c9112aff3d9a52daa94ad162a553
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 14%
+source-wordcount: '802'
+ht-degree: 11%
 
 ---
 
@@ -16,19 +16,20 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### AI-assistent
 
-[&#x200B; AI Medewerker &#x200B;](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
+[ AI Medewerker ](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
 
 **Zeer belangrijke eigenschappen:**
 
-- **Conversational Interface**: Het volledig-scherm en spoormeningsopties voor verschillende werkschemavoorkeur
-- **Vragen van de Ontdekking**: Vooraf geconfigureerde herinneringen die door categorie (leren, analyseren, optimaliseren) worden georganiseerd
-- **Context die** plaatst: Vorm toepassing, zandbak, en montages van de gegevensmening voor gerichte reacties
-- **Visualisatie van Gegevens**: Interactieve grafieken en grafieken voor gegevensinzichten
-- **Controle van de Reactie**: De citaten van Source, het redeneren verklaringen, en koppelt mechanismen terug
+- **Conversational Interface**: U kunt tussen een volledig-scherm en een interface van de spoormening kiezen om uw werkschemavoorkeur aan te passen.
+- **Vragen van de Ontdekking**: De Medewerker AI verstrekt vooraf gevormde herinneringen die door categorieën zoals leren worden georganiseerd, analyseren, en optimaliseren.
+- **Context die** plaatst: U kunt de toepassing, zandbak, en montages van de gegevensmening vormen om reacties te ontvangen die aan uw behoeften worden aangepast.
+- **Visualisatie van Gegevens**: Het hulpmiddel levert interactieve grafieken en grafieken, toelatend u om inzichten van uw gegevens te bereiken.
+- **Verificatie van de Reactie**: Alle reacties omvatten broncitaties, verklaringen van AI redeneren, en mechanismen om terug te verstrekken.
+
 
 ### Agent Orchestrator
 
-[&#x200B; Adobe Experience Platform Agent Orchestrator &#x200B;](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de uitgebreide kennis van gegevens en klanten van het platform te benutten. De tool stuurt de intelligentie en redenering aan achter speciaal ontwikkelde, deskundige Adobe Experience Platform Agents. Deze kunnen hierdoor complexe besluitvormings- en probleemoplossingstaken snel en op grote schaal uitvoeren, allemaal onder menselijk toezicht. Wanneer u in natuurlijke taal vragen stelt of om hulp vraagt in een gespreksinterface zoals AI Assistant, roept Agent Orchestrator automatisch gespecialiseerde agenten op om u de juiste antwoorden te geven. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
+[ Adobe Experience Platform Agent Orchestrator ](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de uitgebreide kennis van gegevens en klanten van het platform te benutten. De tool stuurt de intelligentie en redenering aan achter speciaal ontwikkelde, deskundige Adobe Experience Platform Agents. Deze kunnen hierdoor complexe besluitvormings- en probleemoplossingstaken snel en op grote schaal uitvoeren, allemaal onder menselijk toezicht. Wanneer u in natuurlijke taal vragen stelt of om hulp vraagt in een gespreksinterface zoals AI Assistant, roept Agent Orchestrator automatisch gespecialiseerde agenten op om u de juiste antwoorden te geven. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
 
 **de componenten van de Kern:**
 
@@ -40,36 +41,36 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 #### Audience-agent
 
-Verstrekt inzicht over publiek met inbegrip van:
+De Audience Agent geeft inzicht in het publiek, waaronder:
 
-- Belangrijke wijzigingen in de doelgrootte detecteren
-- Dubbele doelgroepen identificeren
-- Overzicht van het publiek verkennen
-- De publieksformaten ophalen
+- Detecteren van belangrijke wijzigingen in de publieksgrootte.
+- Dubbele doelgroepen identificeren.
+- De publieksinventaris verkennen.
+- De omvang van het publiek ophalen.
 
 #### Data Insights Agent
 
-Deze agent is beschikbaar in Customer Journey Analytics:
+Beschikbaar in Customer Journey Analytics, de Data Insights Agent:
 
-- Beantwoord vragen over uw gegevens in de natuurlijke taal
-- Bouw relevante visualisaties in Analysis Workspace
-- Gebruikt componenten van uw gegevensmening en daadwerkelijke gegevens
+- Beantwoord vragen over uw gegevens in de natuurlijke taal.
+- Bouw relevante visualisaties in Analysis Workspace.
+- Gebruikt componenten van uw gegevensmening en daadwerkelijke gegevens.
 
 #### Journey Agent
 
-Hiermee kunnen Journey Optimizer-gebruikers:
+Met de Journey Agent kunnen Adobe Journey Optimizer-gebruikers:
 
-- Reizen analyseren en optimaliseren met natuurlijke taal
-- Plan- of publieksconflicten detecteren en oplossen
-- Prestaties en keuzepunten analyseren
+- Reizen analyseren en optimaliseren met natuurlijke taal.
+- Plan- of publieksconflicten detecteren en oplossen.
+- Prestaties en keuzepunten analyseren.
 
 #### Product Support Agent
 
-Biedt foutopsporing met eigen functionaliteit en probleemoplossing:
+Gebruik de Agent van de Steun van het Product voor zelf-serverzuivering en het oplossen van problemen:
 
-- Adobe Experience Platform-functies oplossen zonder workflows te verlaten
-- Ondersteuningstickets maken met context van AI Assistant-interacties
-- Wijzigingen in ticket controleren via AI Assistant
+- Problemen met Adobe Experience Platform-functies oplossen zonder workflows te verlaten.
+- Maak ondersteuningstickets met context van AI Assistant-interacties.
+- Controleer de kaartupdates via AI Assistant.
 
 ## Aan de slag
 
@@ -77,33 +78,30 @@ Biedt foutopsporing met eigen functionaliteit en probleemoplossing:
 
 Als u AI Assistant en Experience Platform Agents wilt gebruiken, moet uw Adobe-beheerder de juiste machtigingen instellen:
 
-- **Real-Time CDP en Adobe Journey Optimizer**: Vereist &quot;toelaten AI Medewerker&quot;toestemmingen en de toestemming van de &quot;Operationele Inzichten van de Mening&quot;voor operationele vragen
-- **Customer Journey Analytics**: Toegang door het Toegangsbeheer van Customer Journey Analytics voor de vragen van de productkennis en van gegevensinzichten
-- **Adobe Experience Manager**: Toegang door Adobe Admin Console
+- Als u AI Assistant in Real-Time CDP en Adobe Journey Optimizer wilt gebruiken, hebt u de machtiging &#39;AI Assistant inschakelen&#39; en de machtiging &#39;Operationele inzichten weergeven&#39; nodig voor toegang tot operationele vragen.
+- De toegang tot AI Medewerker in Customer Journey Analytics wordt beheerd door het Toegangsbeheer van Customer Journey Analytics, dat u toestaat om zowel productkennis als gegevensinzichten vragen te stellen.
+- Voor Adobe Experience Manager hebt u toegang tot AI Assistant via de machtigingen die in de Adobe Admin Console zijn ingesteld.
 
 ### Privacy en beveiliging
 
 AI Assistant is gebouwd met privacy, beveiliging en governance op de voorgrond:
 
-- Er worden geen persoonsgegevens gebruikt voor training
-- Alle bestaande beleidsregels voor toegangsbeheer worden nageleefd
-- Geschikt voor HIPAA bij gebruik met Adobe Experience Platform Healthcare Shield
-- 30 dagen retentiebeleid voor interactielogboeken
-- Sandbox-specifieke gegevensisolatie
+- Er worden geen persoonlijke gegevens gebruikt voor training.
+- Alle bestaande beleidsregels voor toegangsbeheer worden nageleefd.
+- HIPAA-klaar bij gebruik in combinatie met Adobe Experience Platform Healthcare Shield.
+- 30 dagen retentiebeleid voor interactielogboeken.
+- Sandbox-specifieke gegevensisolatie.
 
 ## Best practices
 
-- **ben specifiek** in uw herinneringen om gerichte inzichten te krijgen
-- **verifieer reacties** gebruikend broncitaties en het redeneren verklaringen
-- **context het plaatsen van het Gebruik** om relevante gegevensbronnen te verzekeren
-- **verstrekken terugkoppelt** helpen AI Hulp prestaties verbeteren
-- **combineer inzichten** van veelvoudige agenten voor uitvoerige analyse
+Volg de onderstaande aanbevolen procedures om de beste resultaten te behalen uit uw AI Assistant-ervaring:
+
+- **ben specifiek** in uw herinneringen om gerichte en relevante inzichten van de Medewerker te verkrijgen AI.
+- **verifieer reacties** door de broncitaties en de redenerende verklaringen te herzien die door de Medewerker AI worden verstrekt.
+- **context het plaatsen van het Gebruik** om ervoor te zorgen dat de meest relevante gegevensbronnen voor uw vragen worden gebruikt.
+- **verstrekken terugkoppelt** om de prestaties en de nauwkeurigheid van de Medewerker van AI in tijd te helpen verbeteren.
+- **combineer inzichten** van veelvoudige agenten om een uitvoerigere en goed-afgeronde analyse te bereiken.
 
 ## Juridische overwegingen
 
-- AI Assistant biedt momenteel alleen ondersteuning voor Engels
-- Reacties altijd controleren als taalmodellen fouten kunnen maken
-- Redenen en uitleg bekijken
-- Feedback verzenden voor problemen of onnauwkeurigheden
-
-Deze handleiding biedt alles wat u nodig hebt om effectief gebruik te maken van AI-mogelijkheden in uw Experience Cloud-toepassingen, van basisinteracties tot geavanceerde agentenorganisatie en gespecialiseerde workflows.
+Bij het gebruik van AI Assistant is het belangrijk om rekening te houden met belangrijke juridische en praktische overwegingen. AI Assistant biedt momenteel alleen ondersteuning voor reacties in het Engels. Let altijd op dat u de verstrekte informatie controleert, omdat taalmodellen soms fouten maken. Maak gebruik van de redeneringsstappen en uitleg in de antwoorden om de antwoorden die u ontvangt beter te begrijpen. Als u problemen of onnauwkeurigheden tegenkomt, kunt u feedback verzenden om de AI-assistent in de loop der tijd te helpen verbeteren.
