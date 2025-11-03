@@ -16,7 +16,7 @@ ht-degree: 0%
 >
 >Data Insights Agent is gedurende een beperkte periode beschikbaar voor in aanmerking komende klanten. De toegang tot Data Insights Agent loopt af op 28 februari 2026. Als u Data Insights Agent zonder onderbreking wilt blijven gebruiken, neemt u contact op met uw Adobe-accountvertegenwoordiger voor meer informatie over licenties voor Data Insights Agent.
 
-Data Insights Agent, toegankelijk van de [&#x200B; Medewerker AI &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant) in Customer Journey Analytics, is een generatieve AI gespreksagent die snel en efficiënt vragen over uw gegevens beantwoordt. In Analysis Workspace worden relevante visualisaties gemaakt aan de hand van componenten uit uw gegevensweergave en met behulp van uw werkelijke gegevens.
+Data Insights Agent, toegankelijk van de [&#x200B; Medewerker AI &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant) in Customer Journey Analytics, is een generatieve AI gespreksagent die snel en efficiënt vragen over uw gegevens beantwoordt. In Analysis Workspace worden relevante visualisaties gemaakt aan de hand van componenten uit uw gegevensweergave en met behulp van uw werkelijke gegevens.
 
 Als u Data Insights Agent gebruikt om gegevenscentrische vragen in Analysis Workspace te beantwoorden, bespaart u ontelbare uren die u anders handmatig zou kunnen besteden aan het maken van visualisaties in Analysis Workspace en het vertrouwd maken met de componenten van de gegevensweergave.
 
@@ -52,7 +52,7 @@ De volgende parameters regelen de toegang tot Data Insights Agent in Customer Jo
 
 * **Toestemmingen**: De noodzakelijke toestemmingen moeten in [!UICONTROL Adobe Admin Console] worden verleend alvorens de gebruikers tot Data Insights Agent kunnen toegang hebben.
 
-  Om toestemmingen te verlenen, moet a [&#x200B; admin van het productprofiel &#x200B;](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html) de volgende stappen in [!UICONTROL Admin Console] voltooien:
+  Om toestemmingen te verlenen, moet a [&#x200B; admin van het productprofiel &#x200B;](https://helpx.adobe.com/nl/enterprise/using/manage-product-profiles.html) de volgende stappen in [!UICONTROL Admin Console] voltooien:
    1. Selecteer in **[!UICONTROL Admin Console]** de tab **[!UICONTROL Products]** om de pagina **[!UICONTROL All products and services]** weer te geven.
    1. Selecteer **[!UICONTROL Customer Journey Analytics]**.
    1. Selecteer op het tabblad **[!UICONTROL Product Profiles]** de titel van het productprofiel waartoe u toegang wilt verlenen aan [!UICONTROL AI Assistant: Product Knowledge] .
@@ -70,7 +70,7 @@ De volgende parameters regelen de toegang tot Data Insights Agent in Customer Jo
 
    1. Selecteer **[!UICONTROL Save]** om de machtigingen op te slaan.
 
-  Voor extra informatie over toegangsbeheer, zie [&#x200B; controle van de Toegang &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control#access-control).
+  Voor extra informatie over toegangsbeheer, zie [&#x200B; controle van de Toegang &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/technotes/access-control#access-control).
 
 * **de toegang van de mening van Gegevens**: De meningen van gegevens moeten voor Data Insights Agent worden toegelaten.
 
@@ -261,8 +261,8 @@ Hieronder volgen de beste werkwijzen voor uw configuratie van Customer Journey A
 
 >[!MORELIKETHIS]
 >
->[&#x200B; montages van de Component &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
->[Gegevenswoordenboek &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
->[Berekende metrische waarde goedkeuren &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
->[Segmenten delen &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-share)
+>[&#x200B; montages van de Component &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
+>[Gegevenswoordenboek &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
+>[Berekende metrische waarde goedkeuren &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
+>[Segmenten delen &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-components/segments/seg-share)
 >
