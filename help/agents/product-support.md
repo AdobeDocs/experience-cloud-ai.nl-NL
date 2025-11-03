@@ -55,7 +55,7 @@ Naadloos de status van steunkwesties volgen.
 
 ## Access Product Support Agent
 
-Volg de [ toegangsgids ](./agent-orchestrator.md#access) om te leren hoe te om toestemmingen toe te laten en tot AI Medewerker toegang te hebben.
+Volg de [&#x200B; toegangsgids &#x200B;](./agent-orchestrator.md#access) om te leren hoe te om toestemmingen toe te laten en tot AI Medewerker toegang te hebben.
 
 Zodra u deze stappen voltooit, zullen om het even welke steunbeheerders in uw geregistreerde organisatie kaartjes kunnen tot stand brengen gebruikend AI Medewerker.
 
