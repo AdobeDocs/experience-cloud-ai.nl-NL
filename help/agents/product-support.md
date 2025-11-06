@@ -1,9 +1,9 @@
 ---
 title: Product Support Agent
 description: Ontdek hoe u Product Support Agent in AI-assistent kunt gebruiken om probleemoplossing en het indienen van tickets voor klantenondersteuning te stroomlijnen.
-source-git-commit: 8c05562121071874002afd6d248f16186616da55
+source-git-commit: adf65e0d4c623fbd74645006939702b64b0c1fdd
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '408'
 ht-degree: 5%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 5%
 
 >[!AVAILABILITY]
 >
->**beperkte-tijdtoegang**: Wij hopen u van het gebruiken van de Agent van de Steun van het Product geniet. De toegang tot deze mogelijkheid loopt af op 28 februari 2026. Als u de Product Support Agent zonder onderbreking wilt blijven gebruiken, vraagt u uw Adobe-accountvertegenwoordiger om meer te weten over de licentie voor de Product Support Agent.
+>De Agent van de Steun van het product is beschikbaar aan in aanmerking komende klanten voor een beperkte tijd. De toegang tot de Agent van de Steun van het Product zal op 28 februari 2026 beëindigen. Neem contact op met uw Adobe-accountvertegenwoordiger voor meer informatie over licenties voor Adobe Experience Platform Agent Orchestrator als u de Product Support Agent na deze datum wilt blijven gebruiken.
 
 De Agent van de Steun van het product is zelfbediening het zuiveren en het oplossen van problemenvermogen van AI Medewerker die u voor eigenschappen en toepassingen van Adobe Experience Platform kunt gebruiken.
 
@@ -55,11 +55,11 @@ Naadloos de status van steunkwesties volgen.
 
 ## Access Product Support Agent
 
-Volg de [&#x200B; toegangsgids &#x200B;](./agent-orchestrator.md#access) om te leren hoe te om toestemmingen toe te laten en tot AI Medewerker toegang te hebben.
+Volg de [ toegangsgids ](./agent-orchestrator.md#access) om te leren hoe te om toestemmingen toe te laten en tot AI Medewerker toegang te hebben.
 
 Zodra u deze stappen voltooit, zullen om het even welke steunbeheerders in uw geregistreerde organisatie kaartjes kunnen tot stand brengen gebruikend AI Medewerker.
 
 Voor meer informatie bekijkt u de volgende video om te leren hoe u de Agent van de Steun van het Product kunt gebruiken om probleemloos problemen op te lossen zonder uw werkschema te verlaten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443189?captions=dut&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443183?learn=on)
 
