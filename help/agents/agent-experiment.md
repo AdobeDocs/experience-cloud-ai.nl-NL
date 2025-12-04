@@ -1,9 +1,9 @@
 ---
 title: Experimentatieagent
 description: Leer hoe u de Experimentation Agent gebruikt
-source-git-commit: 0069a97bcb35f609019ec32f263175a36525161a
+source-git-commit: 5694f15d82081eed8e762fea8aabc3da1e265b04
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -12,15 +12,21 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->De Experimentation Agent is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de functies van de Experimentation Agent volledig te kunnen gebruiken.
+>De Experimentation Agent is beschikbaar voor alle klanten die de betaalde licentie van Journey Optimizer Experimentation Accelerator hebben aangeschaft en kan naadloos worden geïntegreerd met Adobe Target of Adobe Journey Optimizer.
 >
->**de Experimenten van de Mening van de Mening**: Deze toestemming laat u de Agent van de Experimentatie gebruiken om inzichten in het experiment direct in AI Medewerker te bekijken.
->
->**beheert Experiment Metada**: Deze toestemming laat u de Agent van de Experimentatie gebruiken om nieuwe experimenten direct in AI Medewerker tot stand te brengen.
+>[ Leer meer op Journey Optimizer Experimentation Accelerator ](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/overview)
 
 ## Overzicht
 
 De **Agent van de Experimentatie** is een op AI-Gebaseerd hulpmiddel dat moderniseert hoe u digitale experimenten over websites, e-mails, duwberichten, en toepassingen in werking kunt stellen en beheren. Voortgebouwd op het platform van Adobe Experience Platform AI en experimenteeringshulpmiddelen, helpt de **Agent van de Experimentatie** u experimenten efficiënter in werking stellen, bedrijfsdoelstellingen organiseren, en actionable inzichten produceren, die benadrukken wat werkte, wat niet werkte, en waar volgende te experimenteren.
+
+De volgende toestemmingen om de eigenschappen van de Agent van de Experimentatie volledig te gebruiken.
+
+* **Experimenten van de Mening**: Deze toestemming laat u de Agent van de Experimentatie gebruiken om inzichten in het experiment direct in AI Medewerker te bekijken.
+
+* **beheert Experiment Metada**: Deze toestemming laat u de Agent van de Experimentatie gebruiken om nieuwe experimenten direct in AI Medewerker tot stand te brengen.
+
+➡️ [ Leer meer in de documentatie van Journey Optimizer Experimentation Accelerator ](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-access)
 
 Als onderdeel van de Experimentation Accelerator-functie levert de Agent:
 
@@ -30,7 +36,7 @@ Als onderdeel van de Experimentation Accelerator-functie levert de Agent:
 
 * **Kansen**: begeleiding op de volgende te nemen acties
 
-![&#x200B; Steekproef voor de Agent van de Experimentatie &#x200B;](./images/experiment/experiment-agent.png)
+![ Steekproef voor de Agent van de Experimentatie ](./images/experiment/experiment-agent.png)
 
 ## Gebruiksscenario’s
 
