@@ -214,7 +214,7 @@ Voor deze query genereert AI Assistant de relevante Profile Query Language (PQL)
 homeAddress.state.equals("California", false)
 ```
 
-Voor meer informatie over PQL, lees het [&#x200B; overzicht van PQL &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/pql/overview).
+Voor meer informatie over PQL, lees het [&#x200B; overzicht van PQL &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/segmentation/pql/overview).
 
 +++
 
