@@ -14,7 +14,7 @@ ht-degree: 0%
 >
 >De Experimentation Agent is beschikbaar voor alle klanten die de betaalde licentie van Journey Optimizer Experimentation Accelerator hebben aangeschaft en kan naadloos worden geïntegreerd met Adobe Target of Adobe Journey Optimizer.
 >
->[&#x200B; Leer meer op Journey Optimizer Experimentation Accelerator &#x200B;](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/overview)
+>[&#x200B; Leer meer op Journey Optimizer Experimentation Accelerator &#x200B;](https://experienceleague.adobe.com/nl/docs/experimentation-accelerator/using/overview)
 
 ## Overzicht
 
@@ -26,7 +26,7 @@ De volgende toestemmingen om de eigenschappen van de Agent van de Experimentatie
 
 * **beheert Experiment Metada**: Deze toestemming laat u de Agent van de Experimentatie gebruiken om nieuwe experimenten direct in AI Medewerker tot stand te brengen.
 
-➡️ [&#x200B; Leer meer in de documentatie van Journey Optimizer Experimentation Accelerator &#x200B;](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-access)
+➡️ [&#x200B; Leer meer in de documentatie van Journey Optimizer Experimentation Accelerator &#x200B;](https://experienceleague.adobe.com/nl/docs/experimentation-accelerator/using/get-started/experiment-accelerator-access)
 
 Als onderdeel van de Experimentation Accelerator-functie levert de Agent:
 
