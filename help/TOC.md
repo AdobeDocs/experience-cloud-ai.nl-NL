@@ -5,10 +5,10 @@ user-guide-description: Leer hoe u AI Assistant gebruikt om uw workflow met Adob
 description: Meer informatie over AI Assistant in Experience Cloud. Verbeter uw productkennis en verbeter operationele inzichten gebruikend AI in Experience Cloud.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 0161aca8c889654f61f081c2cad4850dd890cf53
+source-git-commit: 864002185f3745ca76180af192f616d1e5da0791
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 37%
+source-wordcount: '84'
+ht-degree: 35%
 
 ---
 
@@ -26,6 +26,7 @@ ht-degree: 37%
    - [Audience-agent](./agents/audience.md)
    - [Data Insights Agent](./agents/cja-data-insights-agent.md)
    - [Experimentator](./agents/agent-experiment.md)
-   - [Journey Agent](./agents/ajo-agent-analyze.md)
+   - [Journey Analyze Agent](./agents/ajo-agent-analyze.md)
+   - [Journey Create Agent](./agents/ajo-agent-create.md)
    - [Product Support Agent](./agents/product-support.md)
 
