@@ -22,9 +22,9 @@ Journey Agent bestaat uit twee hoofdvaardigheden:
 - **Reis creeert Agent**: Bouw en vorm marketing reizen door natuurlijke taalherinneringen
 - **Reis analyseert Agent**: Analyseer reizen, ontdek kwesties, ontdek inzichten, en optimaliseer klantenovereenkomst
 
----
+&#x200B;---
 
-# De reis leidt Agent tot: Overzicht van de Vaardigheid en gebruikersgids
+&#x200B;# De reis leidt Agent tot: Overzicht van de Vaardigheid en gebruikersgids
 
 ## Overzicht
 
@@ -161,15 +161,15 @@ Wanneer een gebruiker mijn opslagplaats ingaat verzend een welkomstbericht gebru
 - **Inhoud van het Bericht van het Plan**: Heb uw overseinenstrategie die vóór reisverwezenlijking wordt bepaald.
 - **overweeg de Ervaring van de Klant**: De reisstromen van het ontwerp die klantenvoorkeur respecteren en overmededeling vermijden.
 
----
+&#x200B;---
 
-# De Agent van de Analyse van de reis: Het Overzicht van de Vaardigheid en de Gids van de Gebruiker
+&#x200B;# De Agent van de Analyse van de reis: Het Overzicht van de Vaardigheid en de Gids van de Gebruiker
 
 ## Overzicht
 
 Journey Agent stelt Journey Optimizer-gebruikers in staat om reizen te analyseren en te optimaliseren met behulp van een natuurlijke taalinterface. Met Journey Agent kunnen artsen snel planning- en/of publieksconflicten herkennen en oplossen, punten van gebruikersafzetting tijdens een reis detecteren en inzichten of aanbevelingen geven. Het stelt praktijkmensen in staat om gegevensgestuurde beslissingen te nemen, de betrokkenheid van klanten te verbeteren en de reisorganisatie te stroomlijnen.
 
-Leer meer en ontdek de agent in een blik in dit [ overzicht ](https://experienceleague.adobe.com/en/slides/journey-agent-overview).
+Leer meer en ontdek de agent in een blik in dit [&#x200B; overzicht &#x200B;](https://experienceleague.adobe.com/en/slides/journey-agent-overview).
 
 >[!AVAILABILITY]
 >
@@ -183,7 +183,7 @@ Leer meer en ontdek de agent in een blik in dit [ overzicht ](https://experience
 >
 >**beheer Segmenten**: Aan toestemming laat u nieuw publiek direct in AI Medewerker tot stand brengen.
 
-![ Steekproef voor de Agent van AJO ](./images/ajo-agent/ajo-agent-sample.png)
+![&#x200B; Steekproef voor de Agent van AJO &#x200B;](./images/ajo-agent/ajo-agent-sample.png)
 
 ## Gebruiksscenario’s
 
@@ -311,7 +311,7 @@ Volg de volgende aanbevolen procedures om Journey Agent Analyze zo doeltreffend 
 - **Monitor regelmatig**: Plan regelmatige overzichten van vervoersprestaties om tendensen en anomalieën te identificeren.
 - **optimaliseer Segmentatie**: Zorg publiekssegmentatie in evenwicht is om vermoeidheid te vermijden en betrokkenheid te maximaliseren.
 
----
+&#x200B;---
 
 ## Dia&#39;s en presentaties
 
