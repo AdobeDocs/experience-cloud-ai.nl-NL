@@ -17,13 +17,13 @@ ht-degree: 1%
 ## Wat is beschikbaar voor de proefversie
 
 - **AI Medewerker**: Een volledig-pagina, immersive conversationele interface aangedreven door Agent Orchestrator en werken dwars-product, toelatend artsen die toegelaten producten van Experience Cloud gebruiken aan hefboomwerking GenAI en de mogelijkheden van AI van de Agent. Voor meer informatie, raadpleegt u de [handleiding voor de gebruikersinterface van de AI-assistent](../ai-assistant/ai-assistant-ui.md).
-- **de Agenten van Adobe Experience Platform**: Doelbewuste-gebouwde AI agenten die in het leveren van gemeenschappelijke banen over de categorieën van het klantenervaringsdomein worden gekwalificeerd. U kunt agents gebruiken om uw capaciteit uit te breiden en sneller en met grotere impact ervaringen te creëren en te leveren, zodat productiviteit en efficiëntie op een hoger niveau mogelijk zijn. Om te begrijpen welke Agenten met elke toepassing van Experience Cloud kunnen worden leveraged, leest de documentatie op [&#x200B; Agentic AI in Experience Cloud &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai).
+- **de Agenten van Adobe Experience Platform**: Doelbewuste-gebouwde AI agenten die in het leveren van gemeenschappelijke banen over de categorieën van het klantenervaringsdomein worden gekwalificeerd. U kunt agents gebruiken om uw capaciteit uit te breiden en sneller en met grotere impact ervaringen te creëren en te leveren, zodat productiviteit en efficiëntie op een hoger niveau mogelijk zijn. Om te begrijpen welke Agenten met elke toepassing van Experience Cloud kunnen worden leveraged, leest de documentatie op [&#x200B; Agentic AI in Experience Cloud &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/agentic-ai).
 
 ## Details proefprogramma
 
 Adobe bepaalt naar eigen goeddunken of u voor de proef in aanmerking komt. Klanten die momenteel een Adobe Experience Platform Agent Orchestrator Promotion-licentie of een Experience Platform Agents AI Credits-licentie hebben of eerder hebben, komen niet in aanmerking voor de proefversie.
 
-In aanmerking komende klanten ontvangen een eerste eenmalig recht van tot 10.000 AI Kredieten om voor om het even welke combinatie banen (afhankelijk van uw bestaande vergunning(en) aan de toepassingen van Experience Cloud) te gebruiken die in de [&#x200B; Lijst van het Kredietverbruik AI &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) wordt vermeld. U kunt uw AI-credits bijhouden met het dashboard voor het gebruik van licenties in de gebruikersinterface van Adobe Experience Platform. Voor meer informatie, lees de [&#x200B; documentatie van het dashboard van het vergunningsgebruik &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage).
+In aanmerking komende klanten ontvangen een eerste eenmalig recht van tot 10.000 AI Kredieten om voor om het even welke combinatie banen (afhankelijk van uw bestaande vergunning(en) aan de toepassingen van Experience Cloud) te gebruiken die in de [&#x200B; Lijst van het Kredietverbruik AI &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) wordt vermeld. U kunt uw AI-credits bijhouden met het dashboard voor het gebruik van licenties in de gebruikersinterface van Adobe Experience Platform. Voor meer informatie, lees de [&#x200B; documentatie van het dashboard van het vergunningsgebruik &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/dashboards/guides/license-usage).
 
 >[!IMPORTANT]
 >
@@ -53,7 +53,7 @@ Met de gebruiksgebonden proefversie van Adobe Experience Platform Agents kunnen 
 
 ### Welke agenten inbegrepen in deze proef zijn?
 
-Lees de gids op [&#x200B; Agentische AI in Experience Cloud &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) voor een volledige lijst van Agenten inbegrepen in de proef.
+Lees de gids op [&#x200B; Agentische AI in Experience Cloud &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/agentic-ai) voor een volledige lijst van Agenten inbegrepen in de proef.
 
 ### Wie kan deelnemen aan dit proces?
 
@@ -69,7 +69,7 @@ Voor de proefversie is geen extra aankoop vereist. Er vindt geen automatische co
 
 ### Wie kan het gebruik zien en hoe?
 
-U kunt uw AI-credits bijhouden met het dashboard voor het gebruik van licenties in de gebruikersinterface van Adobe Experience Platform. Voor meer informatie, lees de [&#x200B; documentatie van het dashboard van het vergunningsgebruik &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage).
+U kunt uw AI-credits bijhouden met het dashboard voor het gebruik van licenties in de gebruikersinterface van Adobe Experience Platform. Voor meer informatie, lees de [&#x200B; documentatie van het dashboard van het vergunningsgebruik &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/dashboards/guides/license-usage).
 
 Gebruik het dashboard om het gebruik en de rapportage van uw AI-credits weer te geven. Alleen beheerders en gebruikers met de juiste machtigingen kunnen uw gebruiksgegevens bekijken.
 
