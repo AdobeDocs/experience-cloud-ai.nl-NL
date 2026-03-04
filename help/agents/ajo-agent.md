@@ -4,9 +4,9 @@ description: Uitgebreide gids voor Journey Agent, waarmee gebruikers marketingre
 solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
-source-git-commit: 229d349d971ffaba3f2f2fb989e363d96a8d7a70
+source-git-commit: aba0b2f7f819f762c336c4dfeb952326a0814800
 workflow-type: tm+mt
-source-wordcount: '2147'
+source-wordcount: '2608'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,21 @@ ht-degree: 0%
 
 Met Journey Agent kunnen Journey Optimizer-gebruikers marketingreizen maken, analyseren en optimaliseren met behulp van een natuurlijke taalinterface. Met Journey Agent kunnen artsen snel reizen maken, plannings- of publieksconflicten detecteren en oplossen, prestaties en aflooppunten analyseren en best presterende reizen identificeren om te repliceren voor toekomstige campagnes. Het stelt artsen in staat om gegevensgestuurde beslissingen te nemen, de betrokkenheid van klanten te verbeteren en de reisorganisatie te stroomlijnen.
 
-Journey Agent bestaat uit twee hoofdvaardigheden:
-- **Reis creeert Agent**: Bouw en vorm marketing reizen door natuurlijke taalherinneringen
-- **Reis analyseert Agent**: Analyseer reizen, ontdek kwesties, ontdek inzichten, en optimaliseer klantenovereenkomst
+Journey Agent bestaat uit drie belangrijke taken:
 
-## De reis leidt Agent tot: Overzicht van de Vaardigheid en gebruikersgids
+- **Reis creeert**: Bouw en vorm marketing reizen door natuurlijke taalherinneringen
+- **de Inhoud van het Kanaal leidt tot**: produceer, geef, en beheer kanaalspecifieke inhoud (e-mail, duw, SMS) voor reizen uit gebruikend AI-Verwerkende inhoudsgeneratie
+- **Reis analyseert**: Analyseer reizen, ontdek kwesties, ontdek inzicht, en optimaliseer klantenovereenkomst
+
+## Reis maken: Gebruik van zaken, Agentische vaardigheden en gebruikershandleiding
 
 ## Overzicht
 
-Met de Reis Create Agent kunnen Journey Optimizer-gebruikers marketingreizen maken en configureren met behulp van een natuurlijke taalinterface. Met Reis creëren Agent, kunnen de artsen reizen snel tot stand brengen door hun vereisten in gespreksherinneringen te beschrijven. De agent stroomlijnt de verwezenlijking van de reis, toestaand marketers om zich op strategie eerder dan technische configuratie te concentreren.
+Met Reis maken kunnen Journey Optimizer-gebruikers marketingreizen maken en configureren met behulp van een natuurlijke taalinterface. Met Reis creëren, kunnen de artsen reizen snel tot stand brengen door hun vereisten in gespreksherinneringen te beschrijven. De agent stroomlijnt de verwezenlijking van de reis, toestaand marketers om zich op strategie eerder dan technische configuratie te concentreren.
 
 >[!AVAILABILITY]
 >
->De Reis creeert Agent is beschikbaar voor alle klanten die toegang tot AI Medewerker hebben. Nochtans, zult u de volgende toestemmingen nodig hebben om de Reis te gebruiken creeert de eigenschappen van de Agent:
+>Reis maken is beschikbaar voor alle klanten die toegang hebben tot AI Assistant. U hebt echter de volgende machtigingen nodig om de functies voor het maken van reizen volledig te kunnen gebruiken:
 >
 >**beheert Reizen**: Deze toestemming laat u nieuwe reizen direct in AI Medewerker tot stand brengen.
 >
@@ -42,9 +44,9 @@ Met de Reis Create Agent kunnen Journey Optimizer-gebruikers marketingreizen mak
 
 ## Gebruiksscenario’s
 
-### Belangrijkste gebruiksgevallen voor de Agent van de Reis creëren
+### Belangrijke gebruiksgevallen voor Reis maken
 
-De reis creeert de vaardigheid van de Agent biedt mogelijkheden aan die kunnen worden gebruikt om marketing uitvoering te versnellen:
+Reis creëren biedt mogelijkheden die kunnen worden gebruikt om marketing uitvoering te versnellen:
 
 1. **gebeurtenis-teweeggebrachte reisverwezenlijking**
 
@@ -78,7 +80,7 @@ Voor elk van deze gebruiksgevallen vertaalt de agent de vereisten voor natuurlij
 
 ### **In werkingsgebied**
 
-De volgende mogelijkheden worden gesteund door de Agent van de Reis Create:
+De volgende mogelijkheden worden ondersteund door Reis Create:
 
 - **de verwezenlijking van de de taalreis**: Staat gebruikers toe om reisstroom in gesprekstaal te beschrijven.
 - **gebeurtenis-Gebaseerde en op publiek-gebaseerde reizen**: Steunt zowel op trekker-gebaseerde als geplande vervoerstypes, ook bedrijfsgebeurtenis en publiekskwalificatie.
@@ -95,7 +97,6 @@ De volgende functies worden momenteel niet ondersteund:
 - **Cross-trip orchestratie**
 - **A/B testende configuratie**
 - **Complexe gegevenstransformaties**
-- **de berichtverwezenlijking van de inhoud**
 
 ## Voorbeeldaanwijzingen
 
@@ -141,7 +142,7 @@ De agent zal begeleiding en voorbeelden verstrekken om u te helpen uw reisvereis
 
 ### Aankondiging van aanbevolen procedures
 
-Om de doeltreffendheid van Reis te maximaliseren creeer Agent, volg deze beste praktijken:
+Om de doeltreffendheid van Reis te maximaliseren creeer, volg deze beste praktijken:
 
 1. **ben Specifiek**: Verstrek duidelijke details over uw reisdoelstellingen, doelpubliek, en gewenste acties. Neem informatie op over kanalen, timing en voorwaarden.
 1. **specificeer Tijdopnemer**: wijs duidelijk wachttijden tussen acties en wanneer de reis zou moeten beginnen.
@@ -159,13 +160,95 @@ Wanneer een gebruiker mijn opslagplaats ingaat verzend een welkomstbericht gebru
 - **Inhoud van het Bericht van het Plan**: Heb uw overseinenstrategie die vóór reisverwezenlijking wordt bepaald.
 - **overweeg de Ervaring van de Klant**: De reisstromen van het ontwerp die klantenvoorkeur respecteren en overmededeling vermijden.
 
-## De Agent van de Analyse van de reis: Het Overzicht van de Vaardigheid en de Gids van de Gebruiker
+## Kanaalinhoud maken: Gebruik praktijkvoorbeelden, Agentische vaardigheden en gebruikershandleiding
+
+>[!AVAILABILITY]
+>
+>Deze functie is beschikbaar voor alle klanten met beperkte beschikbaarheid. Neem contact op met uw Adobe-vertegenwoordiger voor toegang.
+
+## Overzicht
+
+Met Channel Content Create kunnen Journey Optimizer-gebruikers kanaalspecifieke inhoud voor reizen genereren, bewerken en beheren met behulp van door AI aangedreven inhoud.
+
+## Gebruiksscenario’s
+
+### Belangrijke gebruiksgevallen voor het maken van kanaalinhoud
+
+1. **kanaal-specifieke inhoudsgeneratie**: Genereer inhoud voor e-mail, duw berichten, SMS, en andere kanalen gebruikend natuurlijke taalherinneringen.
+
+1. **op malplaatje-gebaseerde inhoudsverwezenlijking**: Doorblader en selecteer van beschikbare malplaatjes met voorproefmogelijkheden.
+
+1. **Multikanaal inhoudsbeheer**: produceer en beheer inhoud voor veelvoudige kanalen binnen het zelfde reiswerkschema.
+
+1. **In-context inhoud die** uitgeeft: Open geproduceerde inhoud in Inhoud Designer voor het uitgeven en verfijning.
+
+1. **de verfijning en herhaling van de Inhoud**: Regenereer inhoud met verschillende tonen of stijlen gebruikend de Regenerate actie.
+
+1. **de integratie van het canvas van de Reis**: Selecteer reizen van inventaris en mening bijbehorende kanalen.
+
+## In het toepassingsgebied en buiten het bereik
+
+### **In werkingsgebied**
+
+De volgende mogelijkheden worden ondersteund door Channel Content Create:
+
+- **op AI-Gerichte inhoudsgeneratie**: Genereer inhoud voor e-mail, duw, SMS, en andere kanalen gebruikend natuurlijke taalherinneringen.
+- **beheer van het Malplaatje**: Doorblader en selecteer van beschikbare malplaatjes met voorproefmogelijkheden.
+- **In-context het uitgeven**: Open geproduceerde inhoud in Inhoud Designer voor het uitgeven en verfijning.
+- **Regeneratie van de Inhoud**: Regenereer inhoud met verschillende tonen, stijlen, of overseinen gebruikend de Regenerate actie.
+- **Multikanaalsteun**: produceer en beheer inhoud voor veelvoudige kanalen binnen het zelfde reiswerkschema.
+- **de inventaristoegang van de Reis**: Selecteer reizen van inventaris en bekijk bijbehorende kanalen.
+
+### **uit werkingsgebied**
+
+De volgende functies worden momenteel niet ondersteund:
+
+- **de groepering van het merk en controles van de inhoudskwaliteit**
+- **de inhoudsknopen van het Tussenvoegsel direct in wegcanvas**
+- **de invoer van het Malplaatje**
+
+## Voorbeeldaanwijzingen
+
+### Inhoud genereren
+
+&quot;Genereer e-mailinhoud voor mijn welkomstreis. Maak een welkome e-mail voor nieuwe klanten met een vriendelijke toon en neem een korting van 10% op.&quot;
+
+&quot;Voeg inhoud toe voor e-mailberichten via kanalen voor mijn welkomstreis.&quot;
+
+&quot;Genereer een pushmelding voor de reis van mijn winkelbezoek. Maak een welkomstbericht dat klanten aanmoedigt om in te checken en een speciale aanbieding te ontvangen.&quot;
+
+&quot;Genereer de inhoud van SMS voor mijn gebeurtenis-teweeggebrachte reis. Maak een kort bericht om klanten op de hoogte te stellen van een flash-verkoop met een call-to-action.&quot;
+
+### Sjabloonselectie
+
+&quot;Toon me beschikbare e-mailsjablonen voor mijn seizoenscampagne reis.&quot;
+
+&quot;Selecteer een sjabloon voor mijn e-mail met een modern, schoon ontwerp.&quot;
+
+### Inhoud bewerken en verfijnen
+
+&quot;Open de e-mailinhoud in Content Designer zodat ik het ontwerp kan aanpassen.&quot;
+
+&quot;Regenereer de inhoud van het pushbericht met een meer casual tone.&quot;
+
+&quot;Werk de e-mailinhoud bij om een promotiecode op te nemen.&quot;
+
+## Best practices
+
+### Aankondiging van aanbevolen procedures
+
+1. **ben Specifiek**: Verstrek duidelijke details over het inhoudstype, de toon, het doelpubliek, en zeer belangrijk overseinen.
+1. **specificeer Kanaal**: wijs duidelijk aan welk kanaal u inhoud voor (e-mail, duw, SMS) creeert.
+1. **bepaalt Toon**: Specificeer de gewenste toon (vriendschappelijk, formeel, tijdelijk, dringend).
+1. **bevestig en verfijnen**: Gebruik regenerate actie om inhoud te raffineren tot het aan uw vereisten voldoet.
+
+## Reis Analyseren: Gevallen gebruiken, Agentische vaardigheden en Handboek
 
 ## Overzicht
 
 Journey Agent stelt Journey Optimizer-gebruikers in staat om reizen te analyseren en te optimaliseren met behulp van een natuurlijke taalinterface. Met Journey Agent kunnen artsen snel planning- en/of publieksconflicten herkennen en oplossen, punten van gebruikersafzetting tijdens een reis detecteren en inzichten of aanbevelingen geven. Het stelt praktijkmensen in staat om gegevensgestuurde beslissingen te nemen, de betrokkenheid van klanten te verbeteren en de reisorganisatie te stroomlijnen.
 
-Leer meer en ontdek de agent in een blik in dit [&#x200B; overzicht &#x200B;](https://experienceleague.adobe.com/nl/slides/journey-agent-overview).
+Leer meer en ontdek de agent in een blik in dit [ overzicht ](https://experienceleague.adobe.com/en/slides/journey-agent-overview).
 
 >[!AVAILABILITY]
 >
@@ -179,13 +262,13 @@ Leer meer en ontdek de agent in een blik in dit [&#x200B; overzicht &#x200B;](ht
 >
 >**beheer Segmenten**: Aan toestemming laat u nieuw publiek direct in AI Medewerker tot stand brengen.
 
-![&#x200B; Steekproef voor de Agent van AJO &#x200B;](./images/ajo-agent/ajo-agent-sample.png)
+![ Steekproef voor de Agent van AJO ](./images/ajo-agent/ajo-agent-sample.png)
 
 ## Gebruiksscenario’s
 
-### Belangrijke gebruiksscenario&#39;s voor Journey Agent Analyseren
+### Belangrijke gebruiksscenario&#39;s voor reisanalyse
 
-De Journey Agent Analyze-vaardigheden bieden een aantal functies die kunnen worden gebruikt om marketinginspanningen te optimaliseren:
+Journey Analyze biedt een aantal functies die kunnen worden benut om marketinginspanningen te optimaliseren:
 
 1. **Analyse van de Fallout van de Reis**
 
@@ -215,7 +298,7 @@ Voor elk van deze analyses, ontdekt de agent niet alleen kwesties maar ook verst
 
 ### **in Toepassingsgebied**
 
-De volgende mogelijkheden worden ondersteund door Journey Agent Analyze:
+De volgende mogelijkheden worden ondersteund door Journey Analyze:
 
 - **Reactive Vragen**: Staat gebruikers toe om specifieke vragen over reisprestaties, publieksgebruik, en het plannen van conflicten te stellen.
 - **Integratie met Andere Agenten**: werkt met Audience Agent en Data Insights Agent voor diepere analyse samen.
@@ -295,7 +378,7 @@ Gebruik deze herinneringen om potentiële conflicten tussen reizen, met inbegrip
 
 ### Aankondiging van beste praktijken
 
-Volg de volgende aanbevolen procedures om Journey Agent Analyze zo doeltreffend mogelijk te maken:
+Om de doeltreffendheid van de Analyse van de Reis te maximaliseren, volg deze beste praktijken:
 
 1. **ben Specifiek**: Gebruik duidelijke en beknopte herinneringen om gerichte inzichten te krijgen. In plaats van bijvoorbeeld te vragen &quot;Wat zijn mijn reizen?&quot;, geeft u &quot;Alle reizen weergeven die in de laatste maand zijn gemaakt&quot; op.
 1. **combineer Inzichten**: Inzicht van Audience Agent en Data Insights Agent voor een holistische mening van reisprestaties integreren.
