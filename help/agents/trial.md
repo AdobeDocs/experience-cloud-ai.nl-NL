@@ -16,7 +16,7 @@ ht-degree: 1%
 
 De volgende video is bedoeld als ondersteuning voor uw begrip van de proefversie van Adobe Experience Platform Agents.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480228?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480234?captions=dut&learn=on)
 
 ## Wat is beschikbaar voor de proefversie
 
