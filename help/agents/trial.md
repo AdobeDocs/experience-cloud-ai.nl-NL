@@ -27,7 +27,7 @@ De volgende video is bedoeld als ondersteuning voor uw begrip van de proefversie
 
 Adobe bepaalt naar eigen goeddunken of u voor de proef in aanmerking komt. Klanten die momenteel een Adobe Experience Platform Agent Orchestrator Promotion-licentie of een Experience Platform Agents AI Credits-licentie hebben of eerder hebben, komen niet in aanmerking voor de proefversie.
 
-In aanmerking komende klanten ontvangen een eerste eenmalig recht van tot 10.000 AI Kredieten om voor om het even welke combinatie banen (afhankelijk van uw bestaande vergunning(en) aan de toepassingen van Experience Cloud) te gebruiken die in de [&#x200B; Lijst van het Kredietverbruik AI &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) wordt vermeld. U kunt uw AI-credits bijhouden met het dashboard voor het gebruik van licenties in de gebruikersinterface van Adobe Experience Platform. Voor meer informatie, lees de [&#x200B; documentatie van het dashboard van het vergunningsgebruik &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/dashboards/guides/license-usage).
+In aanmerking komende klanten ontvangen een eerste eenmalig recht van tot 10.000 AI Kredieten om voor om het even welke combinatie banen (afhankelijk van uw bestaande vergunning(en) aan de toepassingen van Experience Cloud) te gebruiken die in de [&#x200B; Lijst van het Kredietverbruik AI &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/ai-credit-consumption) wordt vermeld. U kunt uw AI-credits bijhouden met het dashboard voor het gebruik van licenties in de gebruikersinterface van Adobe Experience Platform. Voor meer informatie, lees de [&#x200B; documentatie van het dashboard van het vergunningsgebruik &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/dashboards/guides/license-usage).
 
 >[!IMPORTANT]
 >
@@ -65,7 +65,7 @@ De proefversie wordt in fasen uitgevoerd aan bepaalde in aanmerking komende Adob
 
 ### Hoeveel AI Kredieten krijg ik en wat gebeurt wanneer die Kredieten van AI worden gebruikt?
 
-In aanmerking komende klanten ontvangen tot 10.000 AI Kredieten voor de proef, die als Agenten worden verbruikt voeren Banen uit. Houd er rekening mee dat deze AI-crediteringen alleen bestaan voor de duur van de proefperiode en niet doorlopen als u een licentie voor extra AI-crediteringen aanbiedt voordat u de volledige 10.000 AI-credits gebruikt. Voor meer informatie over AI consumptie van de Krediet, lees de [&#x200B; banen van de Agent en AI de verbruiksgids van de Krediet &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption).
+In aanmerking komende klanten ontvangen tot 10.000 AI Kredieten voor de proef, die als Agenten worden verbruikt voeren Banen uit. Houd er rekening mee dat deze AI-crediteringen alleen bestaan voor de duur van de proefperiode en niet doorlopen als u een licentie voor extra AI-crediteringen aanbiedt voordat u de volledige 10.000 AI-credits gebruikt. Voor meer informatie over AI consumptie van de Krediet, lees de [&#x200B; banen van de Agent en AI de verbruiksgids van de Krediet &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/ai-credit-consumption).
 
 ### Zijn er kosten aan verbonden?
 
