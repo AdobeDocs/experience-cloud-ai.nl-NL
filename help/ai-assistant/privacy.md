@@ -16,7 +16,7 @@ Lees dit document voor meer informatie over de vertrouwensgerichte mogelijkheden
 
 * De AI Assistant gebruikt momenteel geen persoonsgegevens, zelfs niet voor opleidingsdoeleinden.
 * AI Assistant is niet op de hoogte van consumentengegevens.
-* Al bestaand [&#x200B; toegangsbeheer &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home) beleid zal door AI Medewerker worden gerespecteerd.
+* Al bestaand [&#x200B; toegangsbeheer &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/home) beleid zal door AI Medewerker worden gerespecteerd.
    * Om het even welk nieuw op attribuut-gebaseerd toegangsbeheerbeleid wordt weerspiegeld in AI Medewerker na een maximum van 24 uur&ast;
 * AI Assistant is een functie die gereed is voor HIPAA in combinatie met het Adobe Experience Platform Healthcare Shield.
 * U kunt een logboek van uw vorige interactie met AI Medewerker met een beleid van het 30 dagbehoud bekijken.
