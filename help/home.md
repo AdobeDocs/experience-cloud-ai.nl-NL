@@ -1,10 +1,10 @@
 ---
 title: AI in Experience Cloud-toepassingen
 description: Leer hoe Experience Cloud-toepassingen gebruikmaken van generatieve AI (GenAI), AI Assistant en AGentic AI.
-source-git-commit: 0e3839f829efc5670c235435d49ed5e49da2ed13
+source-git-commit: 73d63e310783310d0e6fb3d696ded7d4edb5bede
 workflow-type: tm+mt
-source-wordcount: '829'
-ht-degree: 11%
+source-wordcount: '902'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### AI-assistent
 
-[&#x200B; AI Medewerker &#x200B;](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
+[ AI Medewerker ](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
 
 **Zeer belangrijke eigenschappen:**
 
@@ -29,7 +29,7 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### Agent Orchestrator
 
-[&#x200B; Adobe Experience Platform Agent Orchestrator &#x200B;](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de uitgebreide kennis van gegevens en klanten van het platform te benutten. De tool stuurt de intelligentie en redenering aan achter speciaal ontwikkelde, deskundige Adobe Experience Platform Agents. Deze kunnen hierdoor complexe besluitvormings- en probleemoplossingstaken snel en op grote schaal uitvoeren, allemaal onder menselijk toezicht. Wanneer u in natuurlijke taal vragen stelt of om hulp vraagt in een gespreksinterface zoals AI Assistant, roept Agent Orchestrator automatisch gespecialiseerde agenten op om u de juiste antwoorden te geven. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
+[ Adobe Experience Platform Agent Orchestrator ](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de rijke gegevens en de kennis van klanten van het platform te benutten en biedt de kracht om de intelligentie en redenering achter speciaal ontwikkelde Adobe Experience Platform Agents te gebruiken, waardoor ze complexe besluitvormings- en probleemoplossende taken op snelheid en schaal kunnen uitvoeren — allemaal met menselijk toezicht. Wanneer u vragen stelt of hulp via natuurlijke taal in een gespreksinterface zoals AI Medewerker verzoekt, roept Agent Orchestrator automatisch op gespecialiseerde agenten om u de juiste antwoorden te krijgen. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
 
 **de componenten van de Kern:**
 
@@ -39,7 +39,7 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### Gespecialiseerde agents
 
-#### Audience-agent
+#### Audience Agent
 
 De Audience Agent geeft inzicht in het publiek, waaronder:
 
@@ -48,7 +48,7 @@ De Audience Agent geeft inzicht in het publiek, waaronder:
 - De publieksinventaris verkennen.
 - De omvang van het publiek ophalen.
 
-Lees de [&#x200B; documentatie van Audience Agent &#x200B;](./agents/audience.md) voor meer informatie.
+Lees de [ documentatie van Audience Agent ](./agents/audience.md) voor meer informatie.
 
 #### Data Insights Agent
 
@@ -66,7 +66,7 @@ Met de Journey Analyze Agent kunnen Adobe Journey Optimizer-gebruikers:
 - Plan- of publieksconflicten detecteren en oplossen.
 - Prestaties en keuzepunten analyseren.
 
-Lees de [&#x200B; documentatie van Journey Agent &#x200B;](./agents/ajo-agent.md) voor meer informatie.
+Lees de [ documentatie van Journey Agent ](./agents/ajo-agent.md) voor meer informatie.
 
 #### Product Support Agent
 
@@ -76,7 +76,17 @@ Gebruik de Agent van de Steun van het Product voor zelf-serverzuivering en het o
 - Maak ondersteuningstickets met context van AI Assistant-interacties.
 - Controleer de kaartupdates via AI Assistant.
 
-Lees de [&#x200B; documentatie van de Agent van de Steun van het Product &#x200B;](./agents/product-support.md) voor meer informatie.
+Lees de [ documentatie van de Agent van de Steun van het Product ](./agents/product-support.md) voor meer informatie.
+
+#### Adobe Marketing Agent for [!DNL Microsoft 365 Copilot]
+
+Gebruik de Adobe Marketing Agent for [!DNL Microsoft 365 Copilot] om marketinginzichten van Experience Platform op te halen in [!DNL Microsoft 365] apps zoals [!DNL Teams] , [!DNL Word] , [!DNL Powerpoint] en [!DNL Excel] . Met deze agent kunt u:
+
+- Maak snellere, gegevensgestuurde marketingbeslissingen.
+- Verminder tijd besteed schakelen tussen hulpmiddelen.
+- Vereenvoudig toegang tot publiek en reisinzichten door teams.
+
+Lees de [ documentatie van Adobe Marketing Agent ](./agents/ama-ms.md) voor meer informatie.
 
 ## Aan de slag
 
@@ -98,7 +108,7 @@ AI Assistant is gebouwd met privacy, beveiliging en governance op de voorgrond:
 - 30 dagen retentiebeleid voor interactielogboeken.
 - Sandbox-specifieke gegevensisolatie.
 
-## Best practices
+## Aanbevolen procedures
 
 Volg de onderstaande aanbevolen procedures om de beste resultaten te behalen uit uw AI Assistant-ervaring:
 
