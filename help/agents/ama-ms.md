@@ -31,7 +31,7 @@ De Adobe Marketing Agent for [!DNL Microsoft 365 Copilot] biedt een geïntegreer
 
 ### Toegang tot gegevens en machtigingen
 
-De antwoorden u ontvangen wijzen op het **gegevens en toegangsniveau** verbonden aan uw Adobe identiteit-wat u kunt vragen en zien is het zelfde als wat u in Experience Platform en zijn bijbehorende oplossingen gerechtigd bent. Adobe Marketing Agent **erft** die toestemmingen en vereist **** geen afzonderlijke toestemmingenopstelling voor de [!DNL Microsoft 365] integratie. Voor onderliggende mogelijkheden van de Medewerker van Experience Platform AI en andere agenten van Adobe AI, **zijn de toestemmingsvereisten onveranderd** van het gebruiken van die eigenschappen in Experience Platform.
+De antwoorden u ontvangen wijzen op het **gegevens en toegangsniveau** verbonden aan uw Adobe identiteit-wat u kunt vragen en zien is het zelfde als wat u in Experience Platform en zijn bijbehorende oplossingen gerechtigd bent. Adobe Marketing Agent **erft** die toestemmingen en vereist **&#x200B;**&#x200B;geen afzonderlijke toestemmingenopstelling voor de [!DNL Microsoft 365] integratie. Voor onderliggende mogelijkheden van de Medewerker van Experience Platform AI en andere agenten van Adobe AI, **zijn de toestemmingsvereisten onveranderd** van het gebruiken van die eigenschappen in Experience Platform.
 
 De agent maakt een [!DNL Microsoft 365] -instantie met Experience Platform en de bijbehorende toepassingen (Real-Time CDP, Adobe Journey Optimizer en Customer Journey Analytics). Met deze integratie kunt u vervolgens de Experience Platform AI Assistant en de agents gebruiken om relevante inzichten rechtstreeks op te halen in uw [!DNL Microsoft 365] -instantie. De antwoorden die in uw [!DNL Microsoft 365] -instantie worden gegeven, worden weergegeven als conversatie- en natuurlijke taaltekst, tabellen en gegevensvisualisatie. Daarnaast is ondersteuning voor vervolgvragen en onderzoeken beschikbaar in dezelfde [!DNL Copilot] -chat.
 
@@ -59,55 +59,55 @@ Eindgebruikers kunnen de Adobe Marketing Agent alleen gebruiken nadat deze besch
 De typische resultaten na de installatie van admin omvatten:
 
 - U kunt **[!DNL Agent Store]** openen in [!DNL Teams] , **[!DNL Adobe Marketing Agent]** zoeken in uw lijst met agents en **[!DNL Add]** kiezen om deze aan uw Copilot-agents te koppelen.
-- Alternatief, kan uw beheerder Copilot **** de agent aan iedereen in uw organisatie of aan specifieke groepen publiceren zodat hoeven de gebruikers niet om het individueel toe te voegen.
+- Alternatief, kan uw beheerder Copilot **&#x200B;**&#x200B;de agent aan iedereen in uw organisatie of aan specifieke groepen publiceren zodat hoeven de gebruikers niet om het individueel toe te voegen.
 
-Voor beheerderstappen en beleidsopties in het [!DNL Microsoft 365] admin centrum, zie [ agenten voor Microsoft 365 Copilot ](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/manage) in de documentatie van Microsoft leiden.
+Voor beheerderstappen en beleidsopties in het [!DNL Microsoft 365] admin centrum, zie [&#x200B; agenten voor Microsoft 365 Copilot &#x200B;](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/manage) in de documentatie van Microsoft leiden.
 
 ## Aan de slag
 
-Nadat uw organisatie de agent (zie [ toelaat de agent voor uw organisatie ](#enable-the-agent-for-your-organization)) heeft toegelaten, navigeer aan [!DNL Microsoft 365 Copilot] in de toepassing van uw keus en gebruik de linkernavigatie om **[!DNL All Agents]** te selecteren.
+Nadat uw organisatie de agent (zie [&#x200B; toelaat de agent voor uw organisatie &#x200B;](#enable-the-agent-for-your-organization)) heeft toegelaten, navigeer aan [!DNL Microsoft 365 Copilot] in de toepassing van uw keus en gebruik de linkernavigatie om **[!DNL All Agents]** te selecteren.
 
-![ Microsoft 365 de linkernavigatie van de Kopilot met Alle Geselecteerde Agenten.](../agents/images/ama/all-agents.png)
+![&#x200B; Microsoft 365 de linkernavigatie van de Kopilot met Alle Geselecteerde Agenten.](../agents/images/ama/all-agents.png)
 
 Zoek de kaart voor [!DNL Adobe Marketing Agent] of gebruik de zoekbalk om handmatig naar de agent te zoeken. Zodra u de agent hebt, selecteer de kaart.
 
-![ de kaart of het onderzoeksresultaat van Adobe Marketing Agent in de agentengalerie.](../agents/images/ama/select-ama.png)
+![&#x200B; de kaart of het onderzoeksresultaat van Adobe Marketing Agent in de agentengalerie.](../agents/images/ama/select-ama.png)
 
 Gebruik het pop-up venster om meer over de agent te leren. Wanneer u klaar bent, selecteert u **[!DNL Add]** .
 
-![ de details pop-up van Adobe Marketing Agent met Add benadrukte knoop.](../agents/images/ama/add-ama.png)
+![&#x200B; de details pop-up van Adobe Marketing Agent met Add benadrukte knoop.](../agents/images/ama/add-ama.png)
 
 Het dashboard van [!DNL Microsoft 365 Copilot] wordt bijgewerkt met de markering [!DNL Adobe Marketing Agent] nu op de hoofdpagina.
 
-![ Microsoft 365 de homepage van Copilot die Adobe Marketing Agent op het belangrijkste dashboard toont.](../agents/images/ama/home.png)
+![&#x200B; Microsoft 365 de homepage van Copilot die Adobe Marketing Agent op het belangrijkste dashboard toont.](../agents/images/ama/home.png)
 
 ### Aanmelden en uw context instellen
 
 Vervolgens vraagt u de agent zich aan te melden en de stappen te volgen die nodig zijn om uw account te verifiëren. Tijdens deze stap, zult u een numerieke code moeten kopiëren die de agent terugkeert en dan binnen aan uw organisatie van Adobe ondertekent. Als u login niet kunt voltooien of u hebt geen toegang tot de oplossingen van Adobe voor uw organisatie, contacteer uw **beheerder van Adobe**.
 
-![ Adobe teken-binnen stap die een numerieke code tonen om met uw organisatie van Adobe voor authentiek te verklaren.](../agents/images/ama/sign-in.png)
+![&#x200B; Adobe teken-binnen stap die een numerieke code tonen om met uw organisatie van Adobe voor authentiek te verklaren.](../agents/images/ama/sign-in.png)
 
 Wanneer succesvol, gebruik contextsetter om de documentatiebron, zandbak, en gegevensmening te vestigen die u voor uw vragen zult gebruiken.
 
-![ de setter UI van de Context om documentbron, zandbak, en gegevensmening voor vragen te kiezen.](../agents/images/ama/context.png)
+![&#x200B; de setter UI van de Context om documentbron, zandbak, en gegevensmening voor vragen te kiezen.](../agents/images/ama/context.png)
 
 ### Gebruik de agent om operationele inzichten terug te winnen
 
 Nadat u zich hebt aangemeld, kunt u de aanwijzingen op de hoofdpagina gebruiken om aan de slag te gaan. U kunt ook profiteren van een startprompt die zich kan vertakken naar het analyseren van marketingsoorten, het evalueren van de campagneresultaten en het controleren van campagnetreizen. Selecteer bijvoorbeeld **[!DNL Review campaign performance]** en vervolgens **[!DNL Analyze engagement - Show web visitors for top 10 products last week]** .
 
-![ de herinneringen van de Aanzet op de pagina van het agentenhuis, met inbegrip van de campagneprestaties van het Overzicht en analyseer betrokkenheidsopties.](../agents/images/ama/starter-guide.png)
+![&#x200B; de herinneringen van de Aanzet op de pagina van het agentenhuis, met inbegrip van de campagneprestaties van het Overzicht en analyseer betrokkenheidsopties.](../agents/images/ama/starter-guide.png)
 
 Sta voor een paar ogenblikken voor de agent toe om te berekenen en dan antwoordt de agent met een visualiseerde vertegenwoordiging van uw gegevens. U kunt het weergegeven staafdiagram gebruiken of **[!DNL View data]** selecteren om de gegevens in tabellen weer te geven.
 
-![ de reactie van de Agent met een staafdiagram visualiserend Webbezoekers voor hoogste producten en de optie van de Gegevens van de Mening.](../agents/images/ama/response.png)
+![&#x200B; de reactie van de Agent met een staafdiagram visualiserend Webbezoekers voor hoogste producten en de optie van de Gegevens van de Mening.](../agents/images/ama/response.png)
 
-![ Zelfde inzichten die als gegevenslijst na het selecteren van de gegevens van de Mening worden getoond.](../agents/images/ama/tables.png)
+![&#x200B; Zelfde inzichten die als gegevenslijst na het selecteren van de gegevens van de Mening worden getoond.](../agents/images/ama/tables.png)
 
 U kunt verder onderzoeken door follow-upvragen te selecteren die de agent aanbeveelt. Alternatief, kunt u roteren en verschillende starterherinneringen proberen, de informatiebronnen verifiëren die de agent van verwijzingen voorziet, of terugkoppelen verstrekken gebruikend het terugkoppelt mechanisme.
 
-![ stelde vervolgvragen onder de reactie van de agent voor verder onderzoek voor.](../agents/images/ama/follow-up.png)
+![&#x200B; stelde vervolgvragen onder de reactie van de agent voor verder onderzoek voor.](../agents/images/ama/follow-up.png)
 
-Voor meer informatie over de AI Hulpeigenschappen UI, lees de gids op [ gebruikend de Medewerker AI ](../ai-assistant/ai-assistant-ui.md).
+Voor meer informatie over de AI Hulpeigenschappen UI, lees de gids op [&#x200B; gebruikend de Medewerker AI &#x200B;](../ai-assistant/ai-assistant-ui.md).
 
 ## Beveiliging, privacy en verantwoordelijke AI
 
@@ -135,20 +135,20 @@ Om agenten van een externe leverancier (derdeontwikkelaars of de Commerciële Ma
 
 Alvorens u externe agenten kunt opstellen, moet het beleid van uw organisatie hen toestaan.
 
-- Login aan het [ Microsoft 365 admin centrum ](https://admin.microsoft.com/).
+- Login aan het [&#x200B; Microsoft 365 admin centrum &#x200B;](https://admin.microsoft.com/).
 - Ga naar **Agenten** > **Montages** > **de toegang van de Gebruiker**.
 - Onder **Toegestane agententypes,** verzekert **apps en agenten toestaat die door externe uitgevers** worden gebouwd wordt geselecteerd.
 
 >[!IMPORTANT]
 >
->Als dit plaatsen gehandicapt is, zullen de externe agenten niet in de [ Winkel van de Agent ](https://devblogs.microsoft.com/microsoft365dev/introducing-the-agent-store-build-publish-and-discover-agents-in-microsoft-365-copilot/) voor uw gebruikers verschijnen.
+>Als dit plaatsen gehandicapt is, zullen de externe agenten niet in de [&#x200B; Winkel van de Agent &#x200B;](https://devblogs.microsoft.com/microsoft365dev/introducing-the-agent-store-build-publish-and-discover-agents-in-microsoft-365-copilot/) voor uw gebruikers verschijnen.
 
 #### Verkrijg en keur de agent goed
 
-Typisch, kunt u externe agenten in [[!DNL Microsoft Commercial Marketplace] vinden ](https://appsource.microsoft.com/).
+Typisch, kunt u externe agenten in [[!DNL Microsoft Commercial Marketplace] vinden &#x200B;](https://appsource.microsoft.com/).
 
 - **van de Marketplace**: Vind de agent u wilt en **selecteert krijgt het nu**. Dit zal u vaak terug naar uw admin centrum **Geïntegreerde Apps** pagina opnieuw richten.
-- **Toestemmingen van het Overzicht**: In de [ Geïntegreerde Apps ](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide) lijst, selecteer de externe agent.
+- **Toestemmingen van het Overzicht**: In de [&#x200B; Geïntegreerde Apps &#x200B;](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide) lijst, selecteer de externe agent.
 - Herzie de **Gegevens &amp; hulpmiddelen** en **Veiligheid &amp; naleving** lusjes om te zien welke gegevens de externe leverancier toegang zal hebben.
 - Selecteer **goedkeuren** of **activeer** om het in de inventaris van uw organisatie te bewegen.
 
@@ -156,7 +156,7 @@ Typisch, kunt u externe agenten in [[!DNL Microsoft Commercial Marketplace] vind
 
 Zodra goedgekeurd, kunt u precies controleren wie de agent in hun Copilot sidebar ziet.
 
-- In het [[!DNL Microsoft 365]  admin centrum ](https://admin.microsoft.com/), navigeer aan **Agenten** > **Alle agenten**.
+- In het [[!DNL Microsoft 365]  admin centrum &#x200B;](https://admin.microsoft.com/), navigeer aan **Agenten** > **Alle agenten**.
 - Selecteer de externe agent in de lijst.
 - Selecteer **opstellen** (of **geef Toewijzing** uit).
 - Kies **Specifieke gebruikers/groepen** en onderzoek naar de individuen of [!DNL Entra ID] groepen die het zouden moeten hebben.
@@ -166,6 +166,6 @@ Zodra goedgekeurd, kunt u precies controleren wie de agent in hun Copilot sideba
 
 Externe providers werken hun agents vaak bij. Volg onderstaande aanbevolen procedures om deze updates te beheren:
 
-- Controleer [[!DNL Agent Registry] ](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-registry?view=o365-worldwide) periodiek.
+- Controleer [[!DNL Agent Registry] &#x200B;](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-registry?view=o365-worldwide) periodiek.
 - Als een update nieuwe toestemmingen vereist, kan de agent een status van **in afwachting van Update** tonen.
 - U moet manueel **Updates** goedkeuren alvorens de nieuwe versie aan uw toegewezen gebruikers wordt opgesteld.
