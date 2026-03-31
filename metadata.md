@@ -2,21 +2,23 @@
 cloud: Experience Cloud
 solution: Experience Cloud,Experience Platform,Real-Time Customer Data Platform
 product: experience cloud
+landing-page-name: AI
+landing-page-breadcrumb-title: AI Documentation
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/experience-cloud-ai.nl-NL
+git-repo: https://github.com/AdobeDocs/experience-cloud-ai.en
 index: true
-source-git-commit: 00bb5af3650dc661da5f007b2062ea2a496a3082
+source-git-commit: dae54c19020a07c35fcda244a31bbbee1c4aafc9
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 98%
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 
 
-# Metadata voor intern gebruik
+# Metagegevens voor intern gebruik
 
-Het bestand metadata.md bevat metadata op repo-niveau die worden doorgegeven aan de handleiding voor TOC.md-bestanden in de repo. Als u de inhoud van metadata.md voor een handleiding wilt wijzigen, doe dit dan in een TOC.md-bestand.
+Het bestand metadata.md bevat metagegevens op repo-niveau die worden doorgegeven aan de bestanden in de repo in de gebruikershandleiding TOC.md. Als u de inhoud metadata.md voor om het even welke gebruikersgids wilt veranderen, doe dit in om het even welk dossier van TOC.md.
 
-Zie [Metadata](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=nl) voor een lijst met geldige waarden voor **oplossing**, **product** en **type**.
+Zie [ Meta-gegevens ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) voor een lijst van geldige waarden voor **oplossing**, **product**, en **type**.
 
