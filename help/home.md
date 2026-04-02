@@ -16,7 +16,7 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### AI-assistent
 
-[ AI Medewerker ](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
+[&#x200B; AI Medewerker &#x200B;](./ai-assistant/ai-assistant-ui.md) is een intelligent omzettend, generatief hulpmiddel van AI dat productiviteit zal verhogen en het werk in op Adobe Experience Platform-Gebaseerde Toepassingen opnieuw zal bepalen. Gebruikers kunnen productkennis opdoen, problemen oplossen en operationele inzichten zoeken via herinneringen voor natuurlijke talen. U kunt AI Assistant ook gebruiken om toegang te krijgen tot Adobe Experience Platform Agents en andere AI-mogelijkheden.
 
 **Zeer belangrijke eigenschappen:**
 
@@ -29,7 +29,7 @@ Welkom bij de uitgebreide handleiding voor AI-mogelijkheden in Adobe Experience 
 
 ### Agent Orchestrator
 
-[ Adobe Experience Platform Agent Orchestrator ](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de rijke gegevens en de kennis van klanten van het platform te benutten en biedt de kracht om de intelligentie en redenering achter speciaal ontwikkelde Adobe Experience Platform Agents te gebruiken, waardoor ze complexe besluitvormings- en probleemoplossende taken op snelheid en schaal kunnen uitvoeren — allemaal met menselijk toezicht. Wanneer u vragen stelt of hulp via natuurlijke taal in een gespreksinterface zoals AI Medewerker verzoekt, roept Agent Orchestrator automatisch op gespecialiseerde agenten om u de juiste antwoorden te krijgen. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
+[&#x200B; Adobe Experience Platform Agent Orchestrator &#x200B;](./agents/agent-orchestrator.md) is de nieuwe agentische laag in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de rijke gegevens en de kennis van klanten van het platform te benutten en biedt de kracht om de intelligentie en redenering achter speciaal ontwikkelde Adobe Experience Platform Agents te gebruiken, waardoor ze complexe besluitvormings- en probleemoplossende taken op snelheid en schaal kunnen uitvoeren — allemaal met menselijk toezicht. Wanneer u vragen stelt of hulp via natuurlijke taal in een gespreksinterface zoals AI Medewerker verzoekt, roept Agent Orchestrator automatisch op gespecialiseerde agenten om u de juiste antwoorden te krijgen. Agent Orchestrator herinnert uw gespreksgeschiedenis, toelatend u om op vorige vragen te bouwen natuurlijk zonder herhalende context, en combineert inzichten van veelvoudige agenten om u met duidelijke, verenigde reacties te presenteren.
 
 **de componenten van de Kern:**
 
@@ -48,7 +48,7 @@ De Audience Agent geeft inzicht in het publiek, waaronder:
 - De publieksinventaris verkennen.
 - De omvang van het publiek ophalen.
 
-Lees de [ documentatie van Audience Agent ](./agents/audience.md) voor meer informatie.
+Lees de [&#x200B; documentatie van Audience Agent &#x200B;](./agents/audience.md) voor meer informatie.
 
 #### Data Insights Agent
 
@@ -66,7 +66,7 @@ Met de Journey Analyze Agent kunnen Adobe Journey Optimizer-gebruikers:
 - Plan- of publieksconflicten detecteren en oplossen.
 - Prestaties en keuzepunten analyseren.
 
-Lees de [ documentatie van Journey Agent ](./agents/ajo-agent.md) voor meer informatie.
+Lees de [&#x200B; documentatie van Journey Agent &#x200B;](./agents/ajo-agent.md) voor meer informatie.
 
 #### Product Support Agent
 
@@ -76,7 +76,7 @@ Gebruik de Agent van de Steun van het Product voor zelf-serverzuivering en het o
 - Maak ondersteuningstickets met context van AI Assistant-interacties.
 - Controleer de kaartupdates via AI Assistant.
 
-Lees de [ documentatie van de Agent van de Steun van het Product ](./agents/product-support.md) voor meer informatie.
+Lees de [&#x200B; documentatie van de Agent van de Steun van het Product &#x200B;](./agents/product-support.md) voor meer informatie.
 
 <!--
 #### Adobe Marketing Agent for [!DNL Microsoft 365 Copilot]
