@@ -125,7 +125,7 @@ De eerste release is beschikbaar als een Engelstalige ervaring. Capabilities zij
 
 >[!IMPORTANT]
 >
->De Adobe Marketing Agent roept verschillende Adobe-medewerkers en -taken aan, afhankelijk van de ingediende vragen. Deze onderliggende agent van Adobe die wordt aangehaald gebruikt AI kredieten zoals die in [&#x200B; worden vermeld de agentenbanen van Adobe Experience Platform en AI de pagina van de creditconsumptie &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption).
+>De Adobe Marketing Agent roept verschillende Adobe-medewerkers en -taken aan, afhankelijk van de ingediende vragen. Deze onderliggende agent van Adobe die wordt aangehaald gebruikt AI kredieten zoals die in [&#x200B; worden vermeld de agentenbanen van Adobe Experience Platform en AI de pagina van de creditconsumptie &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/ai-credit-consumption).
 
 ## Bijlage
 
